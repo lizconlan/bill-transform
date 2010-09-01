@@ -37,8 +37,11 @@ describe "HtmlBill" do
       @cover.should =~ /<p>Explanatory notes to the Bill, prepared by the Department for Business, Innovation<br \/>and Skills and the Department for/
     end
     
+    it 'should create a <DIV> with class of pageHead for each PageStart element' do
+      @cover.should =~ /<div class="pageHead" data-number="i"><\/div>/
+    end
+    
     it 'should create <DIV> with a class of Rubric for each Rubric element'
     it 'should not create <BR> tags for LineStart elements outside a paragraph'
-    it 'should create a <DIV> with class of pageHeader for each PageStart element'
   end
 end

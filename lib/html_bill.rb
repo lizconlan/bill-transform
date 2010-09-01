@@ -62,6 +62,9 @@ class HtmlBill
             if content.length > 0
               @output << "<p>" + content + "</p>"
             end
+          when "PageStart"
+            pagenum = element.attributes["Number"]
+            @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
         end
       end
       
