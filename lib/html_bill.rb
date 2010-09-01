@@ -51,7 +51,6 @@ class HtmlBill
   private
     def make_html xml
       @output = []
-      @output << "<HTML><head></head><body>"
       
       xml.children.each do |element|
         case element.name
@@ -68,7 +67,6 @@ class HtmlBill
         end
       end
       
-      @output << "</body></HTML>"
       @output.join("")
     end
     
