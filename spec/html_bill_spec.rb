@@ -41,7 +41,10 @@ describe "HtmlBill" do
       @cover.should =~ /<div class="pageHead" data-number="i"><\/div>/
     end
     
+    it 'should not create <BR> tags for LineStart elements outside a paragraph' do
+      @cover.should_not =~ /<\/h2><br \/><p>/
+    end
+    
     it 'should create <DIV> with a class of Rubric for each Rubric element'
-    it 'should not create <BR> tags for LineStart elements outside a paragraph'
   end
 end
