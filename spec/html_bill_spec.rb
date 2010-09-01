@@ -12,6 +12,20 @@ describe "HtmlBill" do
   before do
     @bill = HtmlBill.new(File.read("./data/digital_economy.xml"))
   end
+  
+  describe 'when initialized' do
+    it 'should set the short title' do
+      @bill.short_title.should == "Digital Economy Bill [HL]"
+    end
+    
+    it 'should set the session number' do
+      @bill.session.should == "54/5"
+    end
+    
+    it 'should set the print number' do
+      @bill.print_number.should == "HL Bill 1"
+    end
+  end
 
   describe 'when parsing Cover HTML' do
     before do
