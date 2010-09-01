@@ -55,6 +55,8 @@ class HtmlBill
       
       xml.children.each do |element|
         case element.name
+          when "CoverHeading"
+            @output << "<h2>" + strip_linebreaks(element.inner_text) + "</h2>"
           when "CoverPara"
             content = handle_para(element)
             if content.length > 0
@@ -73,12 +75,16 @@ class HtmlBill
         xml.children.each do |element|
           case element.name
             when "Text"
-              output << element.inner_text.gsub("\r", " ").gsub("\n", " ")
+              output << strip_linebreaks(element.inner_text)
             when "LineStart"
               output << "<br />"
           end
         end
       end
       output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def strip_linebreaks text
+      text.gsub("\r", " ").gsub("\n", " ")
     end
 end
