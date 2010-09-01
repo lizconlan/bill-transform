@@ -17,22 +17,22 @@ class HtmlBill
   end
   
   def arrangement
-    xml = (@doc/'Arrangement')
+    xml = @doc.at('Arrangement')
     make_html(xml)
   end
   
   def clauses
-    xml = (@doc/'Clauses')
+    xml = @doc.at('Clauses')
     make_html(xml)
   end
   
   def schedules
-    xml = (@doc/'Schedules')
+    xml = @doc.at('Schedules')
     make_html(xml)
   end
   
   def endorsement
-    xml = (@doc/'Endorsement')
+    xml = @doc.at('Endorsement')
     make_html(xml)
   end
   
@@ -54,8 +54,8 @@ class HtmlBill
       
       xml.children.each do |element|
         case element.name
-          when "CoverHeading"
-            @output << "<h2>" + strip_linebreaks(element.inner_text) + "</h2>"
+          when "CoverHeading", "Heading.arrangement"
+            @output << "<h2>" + strip_linebreaks(element.inner_text).strip + "</h2>"
           when "CoverPara"
             content = handle_para(element)
             if content.length > 0
@@ -64,6 +64,8 @@ class HtmlBill
           when "PageStart"
             pagenum = element.attributes["Number"]
             @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
+          when "Clauses.arrangement"
+            @output << handle_arrangement(element)
         end
       end
       
@@ -83,6 +85,51 @@ class HtmlBill
         end
       end
       output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_arrangement xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "CrossHeading.arrangement"
+              content = handle_arrangement(element)
+              if content.length > 0
+                output << "<table>" + content + "</table>"
+              end
+            when "CrossHeadingTitle.arrangement"
+              output << "<caption>" + strip_linebreaks(element.inner_text).strip + "</caption>"
+            when "Clause.arrangement"
+              content = handle_arrangement(element)
+              if content.length > 0
+                hardref = element.attributes["HardReference"]
+                if hardref.length > 0
+                  output << %Q|<tr data-hardreference="#{hardref}">#{content}</tr>|
+                else
+                  output << "<tr>" + content + "</tr>"
+                end
+              end
+            when "Number"
+              output << "<td>" + element.inner_text.strip + "</td>"
+            when "Text"
+              output << "<td>" + element.inner_text.strip + "</td>"
+          end
+        end
+      end
+      output.join(" ").squeeze(" ")
+    end
+    
+    def handle_arr_crossheading xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "CrossHeadingTitle.arrangement"
+              output << "<caption>" + strip_linebreaks(element.inner_text).strip + "</caption>"
+          end
+        end
+      end
+      output.join(" ").squeeze(" ")
     end
     
     def strip_linebreaks text

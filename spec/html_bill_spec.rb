@@ -59,6 +59,47 @@ describe "HtmlBill" do
       @cover.should_not =~ /<\/h2><br \/><p>/
     end
     
-    it 'should create <DIV> with a class of Rubric for each Rubric element'
+    it 'should not create <DIV> tags for empty Rubric elements'
+  end
+
+  describe 'when parsing Arrangement HTML' do
+    before do
+      @arrangement = @bill.arrangement()
+    end
+    
+    it 'should not create <BR> tags for LineStart elements outside a paragraph' do
+      @arrangement.should_not =~ /<br \/>/
+    end
+    
+    it 'should create an <H2> tag for Heading.arrangement' do
+      @arrangement.should =~ /<h2>Contents<\/h2>/
+    end
+    
+    it 'should create a table for each CrossHeading.arrangement' do
+      @arrangement.should =~ /<table>.*<\/table>/
+    end
+    
+    it 'should create a table caption for each CrossHeadingTitle.arrangement' do
+      @arrangement.should =~ /<caption>General duties of OFCOM<\/caption>/
+      @arrangement.should =~ /<caption>Online infringement of copyright<\/caption>/
+    end
+    
+    it 'should create a <tr> for each Clause.arrangement' do
+      @arrangement.should =~ /<tr.*<\/tr>/
+    end
+    
+    it 'should create a <td> for each Clause.arrangement/Number' do
+      @arrangement.should =~ /<td>1<\/td>/
+      @arrangement.should =~ /<td>2<\/td>/
+    end
+    
+    it 'should create a <td> for each Clause.arrangement/Text' do
+      @arrangement.should =~ /<td>General duties of OFCOM<\/td>/
+      @arrangement.should =~ /<td>OFCOM reports on infrastructure, internet domain names etc<\/td>/
+    end
+    
+    it 'should include hardreference data in each tr' do
+      @arrangement.should =~ /<tr data-hardreference="j151">/
+    end
   end
 end
