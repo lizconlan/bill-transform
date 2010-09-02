@@ -75,6 +75,10 @@ describe "HtmlBill" do
       @arrangement.should =~ /<h2>Contents<\/h2>/
     end
     
+    it 'should create a <section class="arrangement_clauses"> for the Clauses.arrangement section' do
+      @arrangement.should =~ /<section class="arrangement_clauses">/
+    end
+    
     it 'should create a table for each CrossHeading.arrangement' do
       @arrangement.should =~ /<table>.*<\/table>/
     end
@@ -101,5 +105,10 @@ describe "HtmlBill" do
     it 'should include hardreference data in each tr' do
       @arrangement.should =~ /<tr data-hardreference="j151">/
     end
+    
+    it 'should create a <section class="arrangement_schedules"> for the Schedules.arrangement section' do
+      @arrangement.should =~ /<section class="arrangement_schedules">/
+    end
+    
   end
 end

@@ -65,7 +65,11 @@ class HtmlBill
             pagenum = element.attributes["Number"]
             @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
           when "Clauses.arrangement"
-            @output << handle_arrangement(element)
+            content = handle_arrangement(element)
+            @output << %Q|<section class="arrangement_clauses">#{content}</section>|
+          when "Schedules.arrangement"
+            content = handle_arrangement(element)
+            @output << %Q|<section class="arrangement_schedules">#{content}</section>|
         end
       end
       
