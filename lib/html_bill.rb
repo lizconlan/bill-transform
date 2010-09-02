@@ -65,11 +65,11 @@ class HtmlBill
             pagenum = element.attributes["Number"]
             @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
           when "Clauses.arrangement"
-            content = handle_arrangement(element)
+            content = handle_clauses_arrangement(element)
             @output << %Q|<section class="arrangement_clauses">#{content}</section>|
           when "Schedules.arrangement"
-            content = handle_arrangement(element)
-            @output << %Q|<section class="arrangement_schedules">#{content}</section>|
+            content = handle_schedules_arrangement(element)
+            @output << %Q|<section class="arrangement_schedules"><table>#{content}</table></section>|
         end
       end
       
@@ -91,20 +91,20 @@ class HtmlBill
       output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
     end
     
-    def handle_arrangement xml
+    def handle_clauses_arrangement xml
       output = []
       if xml.children
         xml.children.each do |element|
           case element.name
             when "CrossHeading.arrangement"
-              content = handle_arrangement(element)
+              content = handle_clauses_arrangement(element)
               if content.length > 0
                 output << "<table>" + content + "</table>"
               end
             when "CrossHeadingTitle.arrangement"
               output << "<caption>" + strip_linebreaks(element.inner_text).strip + "</caption>"
             when "Clause.arrangement"
-              content = handle_arrangement(element)
+              content = handle_clauses_arrangement(element)
               if content.length > 0
                 hardref = element.attributes["HardReference"]
                 if hardref.length > 0
@@ -114,6 +114,36 @@ class HtmlBill
                 end
               end
             when "Number"
+              output << "<td>" + element.inner_text.strip + "</td>"
+            when "Text"
+              output << "<td>" + element.inner_text.strip + "</td>"
+          end
+        end
+      end
+      output.join(" ").squeeze(" ")
+    end
+    
+    def handle_schedules_arrangement xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "SchedulesTitle.arrangement"
+              content = element.inner_text
+              if content.length > 0
+                output << "<caption>" + strip_linebreaks(element.inner_text).strip + "</caption>"
+              end
+            when "Schedule.arrangement"
+              content = handle_schedules_arrangement(element)
+              if content.length > 0
+                hardref = element.attributes["HardReference"]
+                if hardref.length > 0
+                  output << %Q|<tr data-hardreference="#{hardref}">#{content}</tr>|
+                else
+                  output << "<tr>" + content + "</tr>"
+                end
+              end
+            when "ScheduleNumber.arrangement"
               output << "<td>" + element.inner_text.strip + "</td>"
             when "Text"
               output << "<td>" + element.inner_text.strip + "</td>"
