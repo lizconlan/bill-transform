@@ -1,0 +1,4716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?Fm Book?>
+<Bill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Program%20Files/Mekon/DraftingSoftware/4.2.3/App/Drafting.xsd" ShortTitle="Child Poverty Bill" AsAmended="[AS AMENDED IN GRAND COMMITTEE]" CopyrightYear="2010" House="House-of-Lords-and-House-of-Commons" ChapterNumbers="Show-First" SessionNumber="54/5" DraftBillBook="No" PrintNumber="HL Bill 34" HouseBillTitle="Child Poverty Bill" Draft="No">
+  <Front>
+    <?Fm Document Arrangement.fm?>
+    <Arrangement>
+      <PageStart Number="i"/>
+      <LineStart/>
+      <Rubric Alignment="Center"/>
+      <LineStart/>
+      <Rubric Alignment="Center"/>
+      <LineStart/>
+      <Heading.arrangement>
+        <Text>Contents</Text>
+      </Heading.arrangement>
+      <LineStart/>
+      <Clauses.arrangement>
+        <Part.arrangement Draft="No" Quote="None">
+          <LineStart/>
+          <PartNumber.arrangement>Part 1 </PartNumber.arrangement>
+          <LineStart/>
+          <PartTitle.arrangement>
+            <Text>National targets, strategies
+and reports</Text>
+          </PartTitle.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Targets
+relating to child poverty</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j001" Draft="No" Quote="None">
+              <Number SingleSchedule="No">1</Number>
+              <Text>Duty of Secretary of State to ensure that targets are met</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j002" Draft="No" Quote="None">
+              <Number SingleSchedule="No">2</Number>
+              <Text>The relative low income target</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j003" Draft="No" Quote="None">
+              <Number SingleSchedule="No">3</Number>
+              <Text>The combined low income and material deprivation target</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j004" Draft="No" Quote="None">
+              <Number SingleSchedule="No">4</Number>
+              <Text>The absolute low income target</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j005" Draft="No" Quote="None">
+              <Number SingleSchedule="No">5</Number>
+              <Text>The persistent poverty target</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j006" Draft="No" Quote="None">
+              <Number SingleSchedule="No">6</Number>
+              <Text>Interpretation of terms used in relation to targets</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>The
+Child Poverty Commission</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j3001" Draft="No" Quote="None">
+              <Number SingleSchedule="No">7</Number>
+              <Text>The Child Poverty Commission</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Strategies:
+duties of Secretary of State</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j101" Draft="No" Quote="None">
+              <Number SingleSchedule="No">8</Number>
+              <Text>UK strategies</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j3002" Draft="No" Quote="None">
+              <Number SingleSchedule="No">9</Number>
+              <Text>Provision of advice by Commission and consultation with others</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Strategies:
+duties of Scottish Ministers and relevant Northern Ireland department</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j101a" Draft="No" Quote="None">
+              <Number SingleSchedule="No">10</Number>
+              <Text>Scottish strategies</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j101b" Draft="No" Quote="None">
+              <Number SingleSchedule="No">11</Number>
+              <Text>Northern Ireland strategies</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j3002a" Draft="No" Quote="None">
+              <Number SingleSchedule="No">12</Number>
+              <Text>Advice and consultation: Scotland and Northern Ireland</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Reports
+by Secretary of State</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j105" Draft="No" Quote="None">
+              <Number SingleSchedule="No">13</Number>
+              <Text>Reports by Secretary of State</Text>
+            </Clause.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j106" Draft="No" Quote="None">
+              <Number SingleSchedule="No">14</Number>
+              <Text>Statement required in relation to target year</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Economic
+and fiscal circumstances</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j108" Draft="No" Quote="None">
+              <Number SingleSchedule="No">15</Number>
+              <Text>Economic and fiscal circumstances</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <PageStart Number="ii"/>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Continuing effect of targets
+after target year</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j110" Draft="No" Quote="None">
+              <Number SingleSchedule="No">16</Number>
+              <Text>Continuing effect of targets after target year</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Supplementary</Text>
+            </CrossHeadingTitle.arrangement>
+            <LineStart/>
+            <Clause.arrangement HardReference="j112" Draft="No" Quote="None">
+              <Number SingleSchedule="No">17</Number>
+              <Text>Interpretation of Part 1</Text>
+            </Clause.arrangement>
+          </CrossHeading.arrangement>
+        </Part.arrangement>
+        <LineStart/>
+        <Part.arrangement Draft="No" Quote="None">
+          <LineStart/>
+          <PartNumber.arrangement>Part
+2 </PartNumber.arrangement>
+          <LineStart/>
+          <PartTitle.arrangement>
+            <Text>Duties of local authorities
+and other bodies in England</Text>
+          </PartTitle.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j200" Draft="No" Quote="None">
+            <Number SingleSchedule="No">18</Number>
+            <Text>Responsible local authorities</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j201" Draft="No" Quote="None">
+            <Number SingleSchedule="No">19</Number>
+            <Text>Partner authorities</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j204" Draft="No" Quote="None">
+            <Number SingleSchedule="No">20</Number>
+            <Text>Co-operation to reduce child poverty in local area</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j205" Draft="No" Quote="None">
+            <Number SingleSchedule="No">21</Number>
+            <Text>Local child poverty needs assessment</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j206" Draft="No" Quote="None">
+            <Number SingleSchedule="No">22</Number>
+            <Text>Joint child poverty strategy for local area</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j208" Draft="No" Quote="None">
+            <Number SingleSchedule="No">23</Number>
+            <Text>Sustainable community strategy</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j203" Draft="No" Quote="None">
+            <Number SingleSchedule="No">24</Number>
+            <Text>Meaning of “child poverty” in Part 2</Text>
+          </Clause.arrangement>
+        </Part.arrangement>
+        <LineStart/>
+        <Part.arrangement Draft="No" Quote="None">
+          <LineStart/>
+          <PartNumber.arrangement>Part
+3 </PartNumber.arrangement>
+          <LineStart/>
+          <PartTitle.arrangement>
+            <Text>Miscellaneous and General</Text>
+          </PartTitle.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>Free
+school lunches and milk</Text>
+            </CrossHeadingTitle.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j1809" Draft="No" Quote="None">
+            <Number SingleSchedule="No">25</Number>
+            <Text>Free school lunches and milk</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <CrossHeading.arrangement>
+            <CrossHeadingTitle.arrangement>
+              <Text>General</Text>
+            </CrossHeadingTitle.arrangement>
+          </CrossHeading.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j909" Draft="No" Quote="None">
+            <Number SingleSchedule="No">26</Number>
+            <Text>General interpretation</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j901" Draft="No" Quote="None">
+            <Number SingleSchedule="No">27</Number>
+            <Text>Regulations and orders</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j907" Draft="No" Quote="None">
+            <Number SingleSchedule="No">28</Number>
+            <Text>Financial provisions</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j903" Draft="No" Quote="None">
+            <Number SingleSchedule="No">29</Number>
+            <Text>Extent</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j906" Draft="No" Quote="None">
+            <Number SingleSchedule="No">30</Number>
+            <Text>Commencement</Text>
+          </Clause.arrangement>
+          <LineStart/>
+          <Clause.arrangement HardReference="j905" Draft="No" Quote="None">
+            <Number SingleSchedule="No">31</Number>
+            <Text>Short title</Text>
+          </Clause.arrangement>
+        </Part.arrangement>
+      </Clauses.arrangement>
+      <LineStart/>
+      <Schedules.arrangement One="No">
+        <SchedulesTitle.arrangement/>
+        <LineStart/>
+        <Schedule.arrangement HardReference="j3001s" Draft="No" Quote="None">
+          <LineStart/>
+          <ScheduleNumber.arrangement>Schedule 1 — </ScheduleNumber.arrangement>
+          <ScheduleTitle.arrangement>
+            <Text>The Child Poverty Commission</Text>
+          </ScheduleTitle.arrangement>
+        </Schedule.arrangement>
+        <LineStart/>
+        <Schedule.arrangement HardReference="j110s" Draft="No" Quote="None">
+          <LineStart/>
+          <ScheduleNumber.arrangement>Schedule 2 — </ScheduleNumber.arrangement>
+          <ScheduleTitle.arrangement>
+            <Text>Continuing effect of targets after
+target year</Text>
+          </ScheduleTitle.arrangement>
+        </Schedule.arrangement>
+      </Schedules.arrangement>
+    </Arrangement>
+  </Front>
+  <?Fm Document Clauses.fm?>
+  <Clauses>
+    <PageStart Number="1"/>
+    <LineStart/>
+    <Rubric Alignment="Center"/>
+    <LineStart/>
+    <Prelim>
+      <ABillTo>
+        <Abt1>
+          <Text>A</Text>
+        </Abt1>
+        <LineStart/>
+        <Abt2>
+          <Text>Bill</Text>
+        </Abt2>
+        <LineStart/>
+        <Abt3>
+          <Text>[AS AMENDED IN GRAND COMMITTEE]</Text>
+        </Abt3>
+        <LineStart/>
+        <Abt4>
+          <Text>To</Text>
+        </Abt4>
+      </ABillTo>
+      <LineStart/>
+      <LongTitle>
+        <Bpara><Letter>S</Letter>et targets relating to the eradication
+of child poverty, and to make other <LineStart/>provision about
+child poverty.<Enact><Text/></Enact></Bpara>
+      </LongTitle>
+      <LineStart/>
+      <WordsOfEnactment>
+        <Bpara><Dropcap Letter="B"/><SmallCaps>e it enacted</SmallCaps> by
+the Queen’s most Excellent Majesty, by and with the advice
+and <LineStart/>consent of the Lords Spiritual and Temporal, and
+Commons, in this present <LineStart/>Parliament assembled, and by
+the authority of the same, as follows:— </Bpara>
+      </WordsOfEnactment>
+    </Prelim>
+    <Part Id="Part-1" Quote="None">
+      <LineStart Number="1"/>
+      <PartNumber>Part 1</PartNumber>
+      <LineStart Number="2"/>
+      <PartTitle>National targets, strategies and
+reports</PartTitle>
+      <LineStart Number="3"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Targets
+relating to child poverty</CrossHeadingTitle>
+        <LineStart Number="4"/>
+        <Clause HardReference="j001" Quote="None" Draft="No">
+          <Number>1</Number>
+          <ClauseTitle Draft="No">Duty of Secretary of State to ensure that targets are
+met</ClauseTitle>
+          <LineStart Number="5"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.100j-1110091" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>It is the
+duty of the Secretary of State to ensure that the following targets
+are </Text>
+              <LineStart Number="6"/>
+              <Text>met in relation to the United
+Kingdom in relation to the target year—</Text>
+              <LineStart Number="7"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>the relative low
+income target in section </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text>,</Text>
+              </Para>
+              <LineStart Number="8"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the combined low
+income and material deprivation target in section </Text>
+                <Jref Jref="j003">3</Jref>
+                <Text>,</Text>
+              </Para>
+              <LineStart Number="9"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>the absolute low
+income target in section </Text>
+                <Jref Jref="j004">4</Jref>
+                <Text>, and</Text>
+              </Para>
+              <LineStart Number="10"/>
+              <Para Quote="None" Draft="No">
+                <Number>d</Number>
+                <Text>the persistent
+poverty target in section </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="11"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The target
+year is the financial year beginning with 1 April 2020.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="12"/>
+        <Clause HardReference="j002" Quote="None" Draft="No">
+          <Number>2</Number>
+          <ClauseTitle Draft="No">The relative low income target</ClauseTitle>
+          <LineStart Number="13"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The
+relative low income target is that less than 10% of children who
+live in </Text>
+              <LineStart Number="14"/>
+              <Text>qualifying households
+live in households that fall within the relevant income </Text>
+              <LineStart Number="15"/>
+              <Text>group.</Text>
+            </SubSection>
+            <LineStart Number="16"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>For the purposes
+of this section, a household falls within the relevant income </Text>
+              <LineStart Number="17"/>
+              <Text>group, in relation to a financial year, if its
+equivalised net income for the </Text>
+              <PageStart Number="2"/>
+              <LineStart Number="1"/>
+              <Text>financial year is less than 60% of median equivalised
+net household income for </Text>
+              <LineStart Number="2"/>
+              <Text>the
+financial year.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="3"/>
+        <Clause HardReference="j003" Quote="None" Draft="No">
+          <Number>3</Number>
+          <ClauseTitle Draft="No">The combined low income and material deprivation target</ClauseTitle>
+          <LineStart Number="4"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The
+combined low income and material deprivation target is that less
+than 5% </Text>
+              <LineStart Number="5"/>
+              <Text>of children who live
+in qualifying households— </Text>
+              <LineStart Number="6"/>
+              <Para Id="mf.300j-1111765" Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>live
+in households that fall within the relevant income group, and</Text>
+              </Para>
+              <LineStart Number="7"/>
+              <Para Id="mf.300j-1111847" Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>experience
+material deprivation.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="8"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>For the purposes
+of subsection </Text>
+              <Xref Idref="mf.300j-1111765">(1)(a)</Xref>
+              <Text>,
+a household falls within the relevant </Text>
+              <LineStart Number="9"/>
+              <Text>income
+group, in relation to a financial year, if its equivalised net income
+for </Text>
+              <LineStart Number="10"/>
+              <Text>the financial year is less
+than 70% of median equivalised net household income </Text>
+              <LineStart Number="11"/>
+              <Text>for the financial year.</Text>
+            </SubSection>
+            <LineStart Number="12"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>Regulations
+must specify the circumstances in which a child is to be regarded </Text>
+              <LineStart Number="13"/>
+              <Text>for the purposes of subsection </Text>
+              <Xref Idref="mf.300j-1111847">(1)(b)</Xref>
+              <Text> as
+experiencing material deprivation in a </Text>
+              <LineStart Number="14"/>
+              <Text>financial
+year.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="15"/>
+        <Clause HardReference="j004" Quote="None" Draft="No">
+          <Number>4</Number>
+          <ClauseTitle Draft="No">The absolute low income target</ClauseTitle>
+          <LineStart Number="16"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.400j-1110091" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The absolute
+low income target is that less than 5% of children who live in </Text>
+              <LineStart Number="17"/>
+              <Text>qualifying households live in households falling
+within the relevant income </Text>
+              <LineStart Number="18"/>
+              <Text>group.</Text>
+            </SubSection>
+            <LineStart Number="19"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>For the purposes
+of this section, a household falls within the relevant income </Text>
+              <LineStart Number="20"/>
+              <Text>group, in relation to a financial year, if its
+equivalised net income for the </Text>
+              <LineStart Number="21"/>
+              <Text>financial
+year is less than 60% of the adjusted base amount.</Text>
+            </SubSection>
+            <LineStart Number="22"/>
+            <SubSection Id="mf.400j-1111797" Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>“The adjusted
+base amount”, in relation to a financial year, is the base amount </Text>
+              <LineStart Number="23"/>
+              <Text>adjusted in a prescribed manner to take account
+of changes in the value of </Text>
+              <LineStart Number="24"/>
+              <Text>money
+since the base year.</Text>
+            </SubSection>
+            <LineStart Number="25"/>
+            <SubSection Id="mf.400j-1112233" Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>In this section—</Text>
+              <LineStart Number="26"/>
+              <Definition Draft="No">
+                <Text>“the base amount” means
+the amount of median equivalised net </Text>
+                <LineStart Number="27"/>
+                <Text>household
+income for the base year;</Text>
+              </Definition>
+              <LineStart Number="28"/>
+              <Definition Draft="No">
+                <Text>“the base year” means
+the financial year beginning with 1 April 2010.</Text>
+              </Definition>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="29"/>
+        <Clause HardReference="j005" Quote="None" Draft="No">
+          <Number>5</Number>
+          <ClauseTitle Draft="No">The persistent poverty target</ClauseTitle>
+          <LineStart Number="30"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.500j-1111753" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>In relation
+to a financial year (“the relevant financial year”), the persistent </Text>
+              <LineStart Number="31"/>
+              <Text>poverty target is that less than the target percentage
+of children who have lived </Text>
+              <LineStart Number="32"/>
+              <Text>in
+qualifying households during each of the survey years have lived
+in </Text>
+              <LineStart Number="33"/>
+              <Text>households that have been
+within the relevant income group in at least 3 of the </Text>
+              <LineStart Number="34"/>
+              <Text>survey years.</Text>
+            </SubSection>
+            <LineStart Number="35"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The survey
+years are—</Text>
+              <LineStart Number="36"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>the calendar year
+that ends in the relevant financial year, and</Text>
+              </Para>
+              <LineStart Number="37"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the 3 previous
+calendar years.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="38"/>
+            <SubSection Id="mf.500j-1112498" Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>For the purposes
+of this section, the target percentage is a percentage to be </Text>
+              <LineStart Number="39"/>
+              <Text>prescribed by regulations made before 2015.</Text>
+            </SubSection>
+            <LineStart Number="40"/>
+            <SubSection Id="mf.500j-1111593" Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>For the purposes
+of this section, a household falls within the relevant income </Text>
+              <LineStart Number="41"/>
+              <Text>group, in relation to a calendar year, if its
+equivalised net income for the year </Text>
+              <LineStart Number="42"/>
+              <Text>is
+less than 60% of median equivalised net household income for the
+year.</Text>
+            </SubSection>
+            <PageStart Number="3"/>
+            <LineStart Number="1"/>
+            <SubSection Id="mf.500j-1112645" Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>Instead of
+exercising the power conferred by subsection </Text>
+              <Xref Idref="mf.500j-1112498">(3)</Xref>
+              <Text>,
+the Secretary of </Text>
+              <LineStart Number="2"/>
+              <Text>State may by
+regulations amend this section so as to substitute a different </Text>
+              <LineStart Number="3"/>
+              <Text>persistent poverty target for that set out in
+subsections </Text>
+              <Xref Idref="mf.500j-1111753">(1)</Xref>
+              <Text> to </Text>
+              <Xref Idref="mf.500j-1111593">(4)</Xref>
+              <Text>.</Text>
+            </SubSection>
+            <LineStart Number="4"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>6</Number>
+              <Text>Regulations
+under subsection </Text>
+              <Xref Idref="mf.500j-1112645">(5)</Xref>
+              <Text> may
+only be made—</Text>
+              <LineStart Number="5"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>before 2015, and</Text>
+              </Para>
+              <LineStart Number="6"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>with the consent
+of the Commission.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="7"/>
+        <Clause HardReference="j006" Id="mf.600j-1093880" Quote="None" Draft="No">
+          <Number>6</Number>
+          <ClauseTitle Draft="No">Interpretation of terms used in relation to targets</ClauseTitle>
+          <LineStart Number="8"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.600j-1112436" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>Regulations
+may for the purposes of this Part make provision about the </Text>
+              <LineStart Number="9"/>
+              <Text>following—</Text>
+              <LineStart Number="10"/>
+              <Para Id="mf.600j-1111668" Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>what
+is a qualifying household;</Text>
+              </Para>
+              <LineStart Number="11"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the circumstances
+in which a child is or is not to be regarded as living </Text>
+                <LineStart Number="12"/>
+                <Text>in a qualifying household;</Text>
+              </Para>
+              <LineStart Number="13"/>
+              <Para Id="mf.600j-1111685" Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>what
+is to be regarded as the income of a household for a financial year;</Text>
+              </Para>
+              <LineStart Number="14"/>
+              <Para Id="mf.600j-1112154" Quote="None" Draft="No">
+                <Number>d</Number>
+                <Text>what
+deductions are to be made in calculating the net income of a </Text>
+                <LineStart Number="15"/>
+                <Text>household;</Text>
+              </Para>
+              <LineStart Number="16"/>
+              <Para Quote="None" Draft="No">
+                <Number>e</Number>
+                <Text>how net household
+income is to be equivalised.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="17"/>
+            <SubSection Id="mf.600j-1112876" Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The deductions
+prescribed under subsection </Text>
+              <Xref Idref="mf.600j-1112154">(1)(d)</Xref>
+              <Text> are
+not to include housing </Text>
+              <LineStart Number="18"/>
+              <Text>costs,
+but regulations under that provision may provide that specified </Text>
+              <LineStart Number="19"/>
+              <Text>expenses are not to be treated as housing costs.</Text>
+            </SubSection>
+            <LineStart Number="20"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>In this Part
+“equivalised”, in relation to household income, means adjusted to </Text>
+              <LineStart Number="21"/>
+              <Text>take account of variations in household size
+and composition.</Text>
+            </SubSection>
+            <LineStart Number="22"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>In making
+regulations under subsection </Text>
+              <Xref Idref="mf.600j-1111668">(1)(a)</Xref>
+              <Text>,
+the Secretary of State must have </Text>
+              <LineStart Number="23"/>
+              <Text>regard
+to the desirability of ensuring that the targets in sections </Text>
+              <Jref Jref="j002">2</Jref>
+              <Text> to </Text>
+              <Jref Jref="j005">5</Jref>
+              <Text> have as </Text>
+              <LineStart Number="24"/>
+              <Text>wide
+an application as is reasonably practicable, having regard to the
+statistical </Text>
+              <LineStart Number="25"/>
+              <Text>surveys that are
+being or can reasonably be expected to be undertaken.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="26"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>The Child
+Poverty Commission</CrossHeadingTitle>
+        <LineStart Number="27"/>
+        <Clause HardReference="j3001" Quote="None" Draft="No">
+          <Number>7</Number>
+          <ClauseTitle Draft="No">The Child Poverty Commission</ClauseTitle>
+          <LineStart Number="28"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>There
+is to be a body called the Child Poverty Commission (in this Act
+referred </Text>
+              <LineStart Number="29"/>
+              <Text>to as “the Commission”).</Text>
+            </SubSection>
+            <LineStart Number="30"/>
+            <SubSection Id="mf.1003j-1111627" Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The Commission’s
+functions are those conferred on it by or under this Act.</Text>
+            </SubSection>
+            <LineStart Number="31"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>Schedule </Text>
+              <Jref Jref="j3001s">1</Jref>
+              <Text> contains further provisions
+about the Commission.</Text>
+            </SubSection>
+            <LineStart Number="32"/>
+            <SubSection Id="mf.1003j-1113284" Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>The Secretary
+of State may by order provide for the Commission to cease to </Text>
+              <LineStart Number="33"/>
+              <Text>exist on a day—</Text>
+              <LineStart Number="34"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>specified in or
+determined in accordance with the order, and</Text>
+              </Para>
+              <LineStart Number="35"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>falling after the
+target year.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="36"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>An order
+under subsection </Text>
+              <Xref Idref="mf.1003j-1113284">(4)</Xref>
+              <Text> may
+contain such transitional or consequential </Text>
+              <LineStart Number="37"/>
+              <Text>provision
+as the Secretary of State considers necessary or expedient in </Text>
+              <LineStart Number="38"/>
+              <Text>connection with the abolition of the Commission.</Text>
+            </SubSection>
+            <LineStart Number="39"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>6</Number>
+              <Text>That provision
+may include provision amending, repealing or revoking—</Text>
+              <LineStart Number="40"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>the provisions
+of this Act so far as relating to the Commission;</Text>
+              </Para>
+              <LineStart Number="41"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>any provision of
+any other Act (whenever passed);</Text>
+              </Para>
+              <PageStart Number="4"/>
+              <LineStart Number="1"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>any
+provision of any instrument made under an Act (whenever made).</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="2"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Strategies:
+duties of Secretary of State</CrossHeadingTitle>
+        <LineStart Number="3"/>
+        <Clause HardReference="j101" Quote="None" Draft="No">
+          <Number>8</Number>
+          <ClauseTitle Draft="No">UK strategies</ClauseTitle>
+          <LineStart Number="4"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.101j-1111600" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The Secretary
+of State must, before the end of the period of 12 months </Text>
+              <LineStart Number="5"/>
+              <Text>beginning with the day on which this Act is passed,
+publish and lay before </Text>
+              <LineStart Number="6"/>
+              <Text>Parliament
+the first UK strategy.</Text>
+            </SubSection>
+            <LineStart Number="7"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>A “UK strategy”
+is a strategy under this section setting out the measures that </Text>
+              <LineStart Number="8"/>
+              <Text>the Secretary of State proposes to take—</Text>
+              <LineStart Number="9"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>for the purpose
+of complying with section </Text>
+                <Jref Jref="j001">1</Jref>
+                <Text> (duty to ensure that targets </Text>
+                <LineStart Number="10"/>
+                <Text>are met), and</Text>
+              </Para>
+              <LineStart Number="11"/>
+              <Para Id="mf.101j-1111661" Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>for
+the purpose of ensuring as far as possible that children in the
+United </Text>
+                <LineStart Number="12"/>
+                <Text>Kingdom do not experience
+socio-economic disadvantage.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="13"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>A UK strategy
+may also refer to proposals of the Scottish Ministers, the Welsh </Text>
+              <LineStart Number="14"/>
+              <Text>Ministers or the relevant Northern Ireland department.</Text>
+            </SubSection>
+            <LineStart Number="15"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>Before the
+end of the period to which a UK strategy relates, the Secretary
+of </Text>
+              <LineStart Number="16"/>
+              <Text>State must review the strategy
+and publish and lay before Parliament a revised </Text>
+              <LineStart Number="17"/>
+              <Text>UK strategy, but this subsection does not apply
+after the beginning of the target </Text>
+              <LineStart Number="18"/>
+              <Text>year.</Text>
+            </SubSection>
+            <LineStart Number="19"/>
+            <SubSection Id="mf.101j-1111673" Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>In preparing
+a UK strategy, the Secretary of State must consider what (if any) </Text>
+              <LineStart Number="20"/>
+              <Text>measures ought to be taken in each of the following
+areas—</Text>
+              <LineStart Number="21"/>
+              <Para Id="mf.101j-1111684" Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>the
+promotion and facilitation of the employment of parents or of the </Text>
+                <LineStart Number="22"/>
+                <Text>development of the skills of parents,</Text>
+              </Para>
+              <LineStart Number="23"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the provision of
+financial support for children and parents,</Text>
+              </Para>
+              <LineStart Number="24"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>health, education,
+childcare and social services, and</Text>
+              </Para>
+              <LineStart Number="25"/>
+              <Para Id="mf.101j-1111759" Quote="None" Draft="No">
+                <Number>d</Number>
+                <Text>housing,
+the built or natural environment and the promotion of social </Text>
+                <LineStart Number="26"/>
+                <Text>inclusion.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="27"/>
+            <SubSection Id="mf.101j-1113169" Quote="None" Draft="No">
+              <Number>6</Number>
+              <Text>A UK strategy
+must—</Text>
+              <LineStart Number="28"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>where it relates
+to a period ending before the end of the target year—</Text>
+                <LineStart Number="29"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>i</Number>
+                  <Text>describe the
+progress that the Secretary of State considers needs </Text>
+                  <LineStart Number="30"/>
+                  <Text>to be made by the end of the period to which
+the strategy relates </Text>
+                  <LineStart Number="31"/>
+                  <Text>if the
+targets in sections </Text>
+                  <Jref Jref="j002">2</Jref>
+                  <Text> to </Text>
+                  <Jref Jref="j005">5</Jref>
+                  <Text> are to be met in relation to
+the </Text>
+                  <LineStart Number="32"/>
+                  <Text>United Kingdom in relation
+to the target year, and</Text>
+                </SubPara>
+                <LineStart Number="33"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>ii</Number>
+                  <Text>describe the
+other progress that the Secretary of State intends to </Text>
+                  <LineStart Number="34"/>
+                  <Text>make by the end of the period to which the strategy
+relates in </Text>
+                  <LineStart Number="35"/>
+                  <Text>achieving the purpose
+mentioned in subsection </Text>
+                  <Xref Idref="mf.101j-1111661">(2)(b)</Xref>
+                  <Text>,
+and</Text>
+                </SubPara>
+              </Para>
+              <LineStart Number="36"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe the progress
+that the Secretary of State intends to make by the </Text>
+                <LineStart Number="37"/>
+                <Text>end of the target year in achieving the purpose
+mentioned in subsection </Text>
+                <Xref Idref="mf.101j-1111661">(2)(b)</Xref>
+                <Text>,
+otherwise than by ensuring that the targets are met.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="38"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>7</Number>
+              <Text>A UK strategy
+other than the first must also—</Text>
+              <LineStart Number="39"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>describe the measures
+taken in accordance with the previous UK </Text>
+                <LineStart Number="40"/>
+                <Text>strategy
+and the measures taken in accordance with a Scottish strategy, </Text>
+                <LineStart Number="41"/>
+                <Text>a Welsh strategy or a Northern Ireland strategy,</Text>
+              </Para>
+              <LineStart Number="42"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe the effect
+of those measures on progress towards meeting the </Text>
+                <LineStart Number="43"/>
+                <Text>targets in sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>, and</Text>
+              </Para>
+              <PageStart Number="5"/>
+              <LineStart Number="1"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>describe
+other effects of those measures that contribute to the </Text>
+                <LineStart Number="2"/>
+                <Text>achievement of the purpose mentioned in subsection </Text>
+                <Xref Idref="mf.101j-1111661">(2)(b)</Xref>
+                <Text>.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="3"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>8</Number>
+              <Text>References
+in this section to the period to which a UK strategy relates are </Text>
+              <LineStart Number="4"/>
+              <Text>references to the period beginning with the date
+on which the UK strategy is </Text>
+              <LineStart Number="5"/>
+              <Text>laid
+before Parliament and—</Text>
+              <LineStart Number="6"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>except in the case
+of a UK strategy laid before Parliament less than 3 </Text>
+                <LineStart Number="7"/>
+                <Text>years before the beginning of the target year,
+ending 3 years later, and</Text>
+              </Para>
+              <LineStart Number="8"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>in that excepted
+case, ending with the target year.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="9"/>
+        <Clause HardReference="j3002" Quote="None" Draft="No">
+          <Number>9</Number>
+          <ClauseTitle Draft="No">Provision of advice by Commission and consultation
+with others</ClauseTitle>
+          <LineStart Number="10"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.2003j-1113109" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>In preparing
+a UK strategy, the Secretary of State must request the advice of
+the </Text>
+              <LineStart Number="11"/>
+              <Text>Commission, and specify
+in the request the date by which the advice is to be </Text>
+              <LineStart Number="12"/>
+              <Text>given.</Text>
+            </SubSection>
+            <LineStart Number="13"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The Secretary
+of State may at any time request the Commission to give advice, </Text>
+              <LineStart Number="14"/>
+              <Text>by a specified date, on any matter connected
+with—</Text>
+              <LineStart Number="15"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>a UK strategy,
+or</Text>
+              </Para>
+              <LineStart Number="16"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the targets in
+sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="17"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>The Secretary
+of State must have regard to any advice given by the </Text>
+              <LineStart Number="18"/>
+              <Text>Commission under this section.</Text>
+            </SubSection>
+            <LineStart Number="19"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>In preparing
+a UK strategy, the Secretary of State—</Text>
+              <LineStart Number="20"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>must consult such
+local authorities and associations of local authorities </Text>
+                <LineStart Number="21"/>
+                <Text>in England as the Secretary of State thinks fit,</Text>
+              </Para>
+              <LineStart Number="22"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>must consult the
+Scottish Ministers, the Welsh Ministers and the </Text>
+                <LineStart Number="23"/>
+                <Text>relevant Northern Ireland department,</Text>
+              </Para>
+              <LineStart Number="24"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>must consult such
+children, and organisations working with or </Text>
+                <LineStart Number="25"/>
+                <Text>representing
+children, as the Secretary of State thinks fit, and</Text>
+              </Para>
+              <LineStart Number="26"/>
+              <Para Quote="None" Draft="No">
+                <Number>d</Number>
+                <Text>may consult such
+other persons as the Secretary of State thinks fit.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="27"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>In preparing
+a UK strategy, the Secretary of State must have regard to any </Text>
+              <LineStart Number="28"/>
+              <Text>Scottish strategy, Welsh strategy or Northern
+Ireland strategy.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="29"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Strategies:
+duties of Scottish Ministers and relevant Northern Ireland department</CrossHeadingTitle>
+        <LineStart Number="30"/>
+        <Clause HardReference="j101a" Quote="None" Draft="No">
+          <Number>10</Number>
+          <ClauseTitle Draft="No">Scottish strategies</ClauseTitle>
+          <LineStart Number="31"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.a101j-1111600" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The Scottish
+Ministers must, before the end of the period of 12 months </Text>
+              <LineStart Number="32"/>
+              <Text>beginning with the day on which this Act is passed,
+publish and lay before the </Text>
+              <LineStart Number="33"/>
+              <Text>Scottish
+Parliament the first Scottish strategy.</Text>
+            </SubSection>
+            <LineStart Number="34"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>A “Scottish
+strategy” is a strategy under this section setting out the measures </Text>
+              <LineStart Number="35"/>
+              <Text>that the Scottish Ministers propose to take—</Text>
+              <LineStart Number="36"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>for the purpose
+of contributing to the compliance by the Secretary of </Text>
+                <LineStart Number="37"/>
+                <Text>State with section </Text>
+                <Jref Jref="j001">1</Jref>
+                <Text> (duty to ensure that targets
+are met), and</Text>
+              </Para>
+              <LineStart Number="38"/>
+              <Para Id="mf.a101j-1111661" Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>for
+the purpose of ensuring as far as possible that children in Scotland </Text>
+                <LineStart Number="39"/>
+                <Text>do not experience socio-economic disadvantage.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="40"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>Before the
+end of the period to which a Scottish strategy relates, the Scottish </Text>
+              <LineStart Number="41"/>
+              <Text>Ministers must review the strategy and publish
+and lay before the Scottish </Text>
+              <LineStart Number="42"/>
+              <Text>Parliament
+a revised Scottish strategy, but this subsection does not apply
+after </Text>
+              <LineStart Number="43"/>
+              <Text>the beginning of the
+target year.</Text>
+            </SubSection>
+            <PageStart Number="6"/>
+            <LineStart Number="1"/>
+            <SubSection Id="mf.a101j-1113169" Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>A Scottish
+strategy must—</Text>
+              <LineStart Number="2"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>where it relates
+to a period ending before the end of the target year— </Text>
+                <LineStart Number="3"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>i</Number>
+                  <Text>describe the
+progress that the Scottish Ministers intend to make </Text>
+                  <LineStart Number="4"/>
+                  <Text>in Scotland by the end of the period to which
+the strategy relates </Text>
+                  <LineStart Number="5"/>
+                  <Text>in contributing
+to the meeting of the targets in sections </Text>
+                  <Jref Jref="j002">2</Jref>
+                  <Text> to </Text>
+                  <Jref Jref="j005">5</Jref>
+                  <Text> in </Text>
+                  <LineStart Number="6"/>
+                  <Text>relation
+to the target year,</Text>
+                </SubPara>
+                <LineStart Number="7"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>ii</Number>
+                  <Text>describe the
+other progress that the Scottish Ministers intend to </Text>
+                  <LineStart Number="8"/>
+                  <Text>make by the end of the period to which the strategy
+relates in </Text>
+                  <LineStart Number="9"/>
+                  <Text>achieving the purpose
+mentioned in subsection </Text>
+                  <Xref Idref="mf.a101j-1111661">(2)(b)</Xref>
+                  <Text>,
+and</Text>
+                </SubPara>
+              </Para>
+              <LineStart Number="10"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe the progress
+that the Scottish Ministers intend to make by the </Text>
+                <LineStart Number="11"/>
+                <Text>end of the target year in achieving the purpose
+mentioned in subsection </Text>
+                <Xref Idref="mf.a101j-1111661">(2)(b)</Xref>
+                <Text>,
+otherwise than by contributing to the meeting of the targets.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="12"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>A Scottish
+strategy other than the first must also—</Text>
+              <LineStart Number="13"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>describe the measures
+taken by the Scottish Ministers in accordance </Text>
+                <LineStart Number="14"/>
+                <Text>with the previous Scottish strategy,</Text>
+              </Para>
+              <LineStart Number="15"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe the effect
+of those measures in contributing to the meeting of </Text>
+                <LineStart Number="16"/>
+                <Text>the targets in sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>, and</Text>
+              </Para>
+              <LineStart Number="17"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>describe other
+effects of those measures that contribute to the </Text>
+                <LineStart Number="18"/>
+                <Text>achievement of the purpose mentioned in subsection </Text>
+                <Xref Idref="mf.a101j-1111661">(2)(b)</Xref>
+                <Text>.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="19"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>6</Number>
+              <Text>A Scottish
+strategy may not include proposals that relate to reserved matters, </Text>
+              <LineStart Number="20"/>
+              <Text>within the meaning of the Scotland Act 1998.</Text>
+            </SubSection>
+            <LineStart Number="21"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>7</Number>
+              <Text>The Scottish
+Ministers must, on or before each report date relating to a Scottish </Text>
+              <LineStart Number="22"/>
+              <Text>strategy, lay before the Scottish Parliament
+a report which—</Text>
+              <LineStart Number="23"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>describes the measures
+taken by the Scottish Ministers in accordance </Text>
+                <LineStart Number="24"/>
+                <Text>with the Scottish strategy,</Text>
+              </Para>
+              <LineStart Number="25"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describes the effect
+of those measures in contributing to the meeting of </Text>
+                <LineStart Number="26"/>
+                <Text>the targets in sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>, and</Text>
+              </Para>
+              <LineStart Number="27"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>describes other
+effects of those measures that contribute to the </Text>
+                <LineStart Number="28"/>
+                <Text>achievement of the purpose mentioned in subsection
+(2)(b).</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="29"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>8</Number>
+              <Text>The report
+dates relating to a Scottish strategy are each anniversary of the
+day </Text>
+              <LineStart Number="30"/>
+              <Text>on which it was laid before
+the Scottish Parliament, other than an anniversary </Text>
+              <LineStart Number="31"/>
+              <Text>which falls—</Text>
+              <LineStart Number="32"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>on or after the
+date on which a subsequent Scottish strategy is so laid, or</Text>
+              </Para>
+              <LineStart Number="33"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>after the end of
+the target year.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="34"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>9</Number>
+              <Text>References
+in this section to the period to which a Scottish strategy relates
+are </Text>
+              <LineStart Number="35"/>
+              <Text>references to the period
+beginning with the date on which the Scottish strategy </Text>
+              <LineStart Number="36"/>
+              <Text>is laid before the Scottish Parliament and—</Text>
+              <LineStart Number="37"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>except in the case
+of a Scottish strategy laid before that Parliament less </Text>
+                <LineStart Number="38"/>
+                <Text>than 3 years before the beginning of the target
+year, ending 3 years </Text>
+                <LineStart Number="39"/>
+                <Text>later,
+and</Text>
+              </Para>
+              <LineStart Number="40"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>in that excepted
+case, ending with the target year.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="41"/>
+        <Clause HardReference="j101b" Quote="None" Draft="No">
+          <Number>11</Number>
+          <ClauseTitle Draft="No">Northern Ireland strategies</ClauseTitle>
+          <LineStart Number="42"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.b101j-1111600" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The relevant
+Northern Ireland department must, before the end of the period </Text>
+              <LineStart Number="43"/>
+              <Text>of 12 months beginning with the day on which
+this Act is passed, publish and </Text>
+              <LineStart Number="44"/>
+              <Text>lay
+before the Northern Ireland Assembly the first Northern Ireland
+strategy.</Text>
+            </SubSection>
+            <LineStart Number="45"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>A “Northern
+Ireland strategy” is a strategy under this section setting out the </Text>
+              <LineStart Number="46"/>
+              <Text>measures that the Northern Ireland departments
+propose to take—</Text>
+              <PageStart Number="7"/>
+              <LineStart Number="1"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>for
+the purpose of contributing to the compliance by the Secretary of </Text>
+                <LineStart Number="2"/>
+                <Text>State with section </Text>
+                <Jref Jref="j001">1</Jref>
+                <Text> (duty to ensure that targets
+are met), and</Text>
+              </Para>
+              <LineStart Number="3"/>
+              <Para Id="mf.b101j-1111661" Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>for
+the purpose of ensuring as far as possible that children in Northern </Text>
+                <LineStart Number="4"/>
+                <Text>Ireland do not experience socio-economic disadvantage.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="5"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>Before the
+end of the period to which a Northern Ireland strategy relates,
+the </Text>
+              <LineStart Number="6"/>
+              <Text>relevant Northern Ireland
+department must review the strategy and publish </Text>
+              <LineStart Number="7"/>
+              <Text>and lay before the Northern Ireland Assembly a
+revised Northern Ireland </Text>
+              <LineStart Number="8"/>
+              <Text>strategy,
+but this subsection does not apply after the beginning of the target </Text>
+              <LineStart Number="9"/>
+              <Text>year.</Text>
+            </SubSection>
+            <LineStart Number="10"/>
+            <SubSection Id="mf.b101j-1113169" Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>A Northern
+Ireland strategy must—</Text>
+              <LineStart Number="11"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>where it relates
+to a period ending before the end of the target year— </Text>
+                <LineStart Number="12"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>i</Number>
+                  <Text>describe the
+progress that the Northern Ireland departments </Text>
+                  <LineStart Number="13"/>
+                  <Text>intend to make in Northern Ireland by the end
+of the period to </Text>
+                  <LineStart Number="14"/>
+                  <Text>which the
+strategy relates in contributing to the meeting of the </Text>
+                  <LineStart Number="15"/>
+                  <Text>targets in sections </Text>
+                  <Jref Jref="j002">2</Jref>
+                  <Text> to </Text>
+                  <Jref Jref="j005">5</Jref>
+                  <Text> in relation to the target year,</Text>
+                </SubPara>
+                <LineStart Number="16"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>ii</Number>
+                  <Text>describe the
+other progress that the Northern Ireland </Text>
+                  <LineStart Number="17"/>
+                  <Text>departments
+intend to make by the end of the period to which </Text>
+                  <LineStart Number="18"/>
+                  <Text>the strategy relates in achieving the purpose
+mentioned in </Text>
+                  <LineStart Number="19"/>
+                  <Text>subsection </Text>
+                  <Xref Idref="mf.b101j-1111661">(2)(b)</Xref>
+                  <Text>,
+and</Text>
+                </SubPara>
+              </Para>
+              <LineStart Number="20"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe the progress
+that the Northern Ireland departments intend to </Text>
+                <LineStart Number="21"/>
+                <Text>make by the end of the target year in achieving
+the purpose mentioned </Text>
+                <LineStart Number="22"/>
+                <Text>in subsection </Text>
+                <Xref Idref="mf.b101j-1111661">(2)(b)</Xref>
+                <Text>,
+otherwise than by contributing to the meeting of </Text>
+                <LineStart Number="23"/>
+                <Text>the targets.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="24"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>A Northern
+Ireland strategy other than the first must also—</Text>
+              <LineStart Number="25"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>describe the measures
+taken by the Northern Ireland departments in </Text>
+                <LineStart Number="26"/>
+                <Text>accordance
+with the previous Northern Ireland strategy,</Text>
+              </Para>
+              <LineStart Number="27"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe the effect
+of those measures in contributing to the meeting of </Text>
+                <LineStart Number="28"/>
+                <Text>the targets in sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>, and</Text>
+              </Para>
+              <LineStart Number="29"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>describe other
+effects of those measures that contribute to the </Text>
+                <LineStart Number="30"/>
+                <Text>achievement of the purpose mentioned in subsection </Text>
+                <Xref Idref="mf.b101j-1111661">(2)(b)</Xref>
+                <Text>.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="31"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>6</Number>
+              <Text>A Northern
+Ireland strategy may not include proposals that relate to excepted </Text>
+              <LineStart Number="32"/>
+              <Text>or reserved matters, within the meaning of the
+Northern Ireland Act 1998.</Text>
+            </SubSection>
+            <LineStart Number="33"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>7</Number>
+              <Text>The relevant
+Northern Ireland department must, on or before each report date </Text>
+              <LineStart Number="34"/>
+              <Text>relating to a Northern Ireland strategy, lay
+before the Northern Ireland </Text>
+              <LineStart Number="35"/>
+              <Text>Assembly
+a report which—</Text>
+              <LineStart Number="36"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>describes the measures
+taken by the Northern Ireland departments in </Text>
+                <LineStart Number="37"/>
+                <Text>accordance
+with the Northern Ireland strategy,</Text>
+              </Para>
+              <LineStart Number="38"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describes the effect
+of those measures in contributing to the meeting of </Text>
+                <LineStart Number="39"/>
+                <Text>the targets in sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>, and</Text>
+              </Para>
+              <LineStart Number="40"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>describes other
+effects of those measures that contribute to the </Text>
+                <LineStart Number="41"/>
+                <Text>achievement of the purpose mentioned in subsection
+(2)(b).</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="42"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>8</Number>
+              <Text>The report
+dates relating to a Northern Ireland strategy are each anniversary
+of </Text>
+              <LineStart Number="43"/>
+              <Text>the day on which it was
+laid before the Northern Ireland Assembly, other than </Text>
+              <LineStart Number="44"/>
+              <Text>an anniversary which falls—</Text>
+            </SubSection>
+            <LineStart Number="45"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>on or after the
+date on which a subsequent Northern Ireland strategy is </Text>
+              <LineStart Number="46"/>
+              <Text>so laid, or</Text>
+            </Para>
+            <LineStart Number="47"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>after the end of
+the target year.</Text>
+            </Para>
+            <PageStart Number="8"/>
+            <LineStart Number="1"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>9</Number>
+              <Text>References
+in this section to the period to which a Northern Ireland strategy </Text>
+              <LineStart Number="2"/>
+              <Text>relates are references to the period beginning
+with the date on which the </Text>
+              <LineStart Number="3"/>
+              <Text>Northern
+Ireland strategy is laid before the Northern Ireland Assembly and—</Text>
+              <LineStart Number="4"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>except in the case
+of a Northern Ireland strategy laid before the </Text>
+                <LineStart Number="5"/>
+                <Text>Assembly less than 3 years before the beginning
+of the target year, </Text>
+                <LineStart Number="6"/>
+                <Text>ending 3
+years later, and</Text>
+              </Para>
+              <LineStart Number="7"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>in that excepted
+case, ending with the target year.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="8"/>
+        <Clause HardReference="j3002a" Quote="None" Draft="No">
+          <Number>12</Number>
+          <ClauseTitle Draft="No">Advice and consultation: Scotland and Northern Ireland</ClauseTitle>
+          <LineStart Number="9"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.a2003j-1113109" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>In preparing
+a Scottish strategy or a Northern Ireland strategy, the devolved </Text>
+              <LineStart Number="10"/>
+              <Text>administration must request the advice of the
+Commission, and specify in the </Text>
+              <LineStart Number="11"/>
+              <Text>request
+the date by which the advice is to be given.</Text>
+            </SubSection>
+            <LineStart Number="12"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The devolved
+administration must have regard to any advice given by the </Text>
+              <LineStart Number="13"/>
+              <Text>Commission under this section.</Text>
+            </SubSection>
+            <LineStart Number="14"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>In preparing
+a Scottish strategy or a Northern Ireland strategy, the devolved </Text>
+              <LineStart Number="15"/>
+              <Text>administration—</Text>
+              <LineStart Number="16"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>in the case of
+a Scottish strategy, must consult such local authorities or </Text>
+                <LineStart Number="17"/>
+                <Text>associations of local authorities in Scotland
+as the devolved </Text>
+                <LineStart Number="18"/>
+                <Text>administration
+thinks fit,</Text>
+              </Para>
+              <LineStart Number="19"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>must consult the
+Secretary of State,</Text>
+              </Para>
+              <LineStart Number="20"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>must consult such
+children, and organisations working with or </Text>
+                <LineStart Number="21"/>
+                <Text>representing
+children, as the devolved administration thinks fit, and</Text>
+              </Para>
+              <LineStart Number="22"/>
+              <Para Quote="None" Draft="No">
+                <Number>d</Number>
+                <Text>may consult such
+other persons as the devolved administration thinks </Text>
+                <LineStart Number="23"/>
+                <Text>fit.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="24"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>In this section
+“the devolved administration” means—</Text>
+              <LineStart Number="25"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>in relation to
+a Scottish strategy, the Scottish Ministers, and</Text>
+              </Para>
+              <LineStart Number="26"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>in relation to
+a Northern Ireland strategy, the relevant Northern Ireland </Text>
+                <LineStart Number="27"/>
+                <Text>department.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="28"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Reports
+by Secretary of State</CrossHeadingTitle>
+        <LineStart Number="29"/>
+        <Clause HardReference="j105" Quote="None" Draft="No">
+          <Number>13</Number>
+          <ClauseTitle Draft="No">Reports by Secretary of State</ClauseTitle>
+          <LineStart Number="30"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.501j-1110091" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The Secretary
+of State must, on or before each report date relating to a UK </Text>
+              <LineStart Number="31"/>
+              <Text>strategy, lay before Parliament a report on the
+progress made—</Text>
+              <LineStart Number="32"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>towards meeting
+the targets in sections </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> to </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>, and</Text>
+              </Para>
+              <LineStart Number="33"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>in implementing
+the UK strategy.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="34"/>
+            <SubSection Quote="Single" Draft="No">
+              <Number>2</Number>
+              <Text>The
+report dates relating to a UK strategy are each anniversary of the
+day on </Text>
+              <LineStart Number="35"/>
+              <Text>which it was laid before
+Parliament, other than an anniversary which falls—</Text>
+            </SubSection>
+            <LineStart Number="36"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>on or after the
+date on which a subsequent UK strategy is so laid, or</Text>
+            </Para>
+            <LineStart Number="37"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>after the end of
+the target year.</Text>
+            </Para>
+            <LineStart Number="38"/>
+            <SubSection Id="mf.501j-1112457" Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>The Secretary
+of State must, as soon as reasonably practicable after the end of </Text>
+              <LineStart Number="39"/>
+              <Text>the target year, lay before Parliament a report
+on the progress made in </Text>
+              <LineStart Number="40"/>
+              <Text>implementing
+the most recent UK strategy.</Text>
+            </SubSection>
+            <LineStart Number="41"/>
+            <SubSection Id="mf.501j-1111974" Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>A report under
+subsection </Text>
+              <Xref Idref="mf.501j-1110091">(1)</Xref>
+              <Text> or </Text>
+              <Xref Idref="mf.501j-1112457">(3)</Xref>
+              <Text> must
+in particular—</Text>
+              <LineStart Number="42"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>describe the measures
+taken by the Secretary of State in accordance </Text>
+                <LineStart Number="43"/>
+                <Text>with the UK strategy, </Text>
+              </Para>
+              <PageStart Number="9"/>
+              <LineStart Number="1"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>describe
+the measures taken by the Scottish Ministers, the Welsh </Text>
+                <LineStart Number="2"/>
+                <Text>Ministers and the Northern Ireland departments
+in accordance with a </Text>
+                <LineStart Number="3"/>
+                <Text>Scottish
+strategy, a Welsh strategy or a Northern Ireland strategy,</Text>
+              </Para>
+              <LineStart Number="4"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>in the case of a
+report under subsection </Text>
+                <Xref Idref="mf.501j-1110091">(1)</Xref>
+                <Text>,
+describe the effect of all </Text>
+                <LineStart Number="5"/>
+                <Text>those
+measures on progress towards the targets and on progress in </Text>
+                <LineStart Number="6"/>
+                <Text>achieving the purpose mentioned in section </Text>
+                <Jref Jref="j101">8</Jref>
+                <Text>(2)(b).</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="7"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>5</Number>
+              <Text>If the UK
+strategy has not been implemented in full, the report must describe </Text>
+              <LineStart Number="8"/>
+              <Text>the respects in which it has not been implemented
+and the reasons for this.</Text>
+            </SubSection>
+            <LineStart Number="9"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>6</Number>
+              <Text>Before preparing
+a report under subsection </Text>
+              <Xref Idref="mf.501j-1110091">(1)</Xref>
+              <Text> or </Text>
+              <Xref Idref="mf.501j-1112457">(3)</Xref>
+              <Text>,
+the Secretary of State </Text>
+              <LineStart Number="10"/>
+              <Text>must
+consult the Scottish Ministers, the Welsh Ministers and the relevant </Text>
+              <LineStart Number="11"/>
+              <Text>Northern Ireland department.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+        <LineStart Number="12"/>
+        <Clause HardReference="j106" Quote="None" Draft="No">
+          <Number>14</Number>
+          <ClauseTitle Draft="No">Statement required in relation to target year</ClauseTitle>
+          <LineStart Number="13"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.601j-1111602" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The report
+under section </Text>
+              <Jref Jref="j105">13</Jref>
+              <Text>(3) must include a statement
+of—</Text>
+              <LineStart Number="14"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>the percentage
+of children living in qualifying households in the United </Text>
+                <LineStart Number="15"/>
+                <Text>Kingdom in the target year who were living in
+households that fell </Text>
+                <LineStart Number="16"/>
+                <Text>within
+the relevant income group for the purposes of section </Text>
+                <Jref Jref="j002">2</Jref>
+                <Text> (the </Text>
+                <LineStart Number="17"/>
+                <Text>relative
+low income target);</Text>
+              </Para>
+              <LineStart Number="18"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the percentage
+of children living in qualifying households in the United </Text>
+                <LineStart Number="19"/>
+                <Text>Kingdom in the target year who were for the purposes
+of section </Text>
+                <Jref Jref="j003">3</Jref>
+                <Text> (the </Text>
+                <LineStart Number="20"/>
+                <Text>combined
+low income and material deprivation target) living in </Text>
+                <LineStart Number="21"/>
+                <Text>households that fell within the relevant income
+group and experiencing </Text>
+                <LineStart Number="22"/>
+                <Text>material
+deprivation;</Text>
+              </Para>
+              <LineStart Number="23"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>the percentage
+of children living in qualifying households in the United </Text>
+                <LineStart Number="24"/>
+                <Text>Kingdom in the target year who were living in
+households that fell </Text>
+                <LineStart Number="25"/>
+                <Text>within
+the relevant income group for the purposes of section </Text>
+                <Jref Jref="j004">4</Jref>
+                <Text> (the </Text>
+                <LineStart Number="26"/>
+                <Text>absolute
+low income target);</Text>
+              </Para>
+              <LineStart Number="27"/>
+              <Para Id="mf.601j-1112570" Quote="None" Draft="No">
+                <Number>d</Number>
+                <Text>the
+percentage of children who have lived in qualifying households </Text>
+                <LineStart Number="28"/>
+                <Text>during the survey years (as defined by section </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text>(2)) which relate to the </Text>
+                <LineStart Number="29"/>
+                <Text>target year who have lived in households that
+fell within the relevant </Text>
+                <LineStart Number="30"/>
+                <Text>income
+group for the purposes of section </Text>
+                <Jref Jref="j005">5</Jref>
+                <Text> (the persistent poverty </Text>
+                <LineStart Number="31"/>
+                <Text>target) in at least 3 of the survey years.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="32"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>The statement
+must be based on statistics that the Statistics Board has </Text>
+              <LineStart Number="33"/>
+              <Text>designated under section 12 of the Statistics
+and Registration Service Act 2007 </Text>
+              <LineStart Number="34"/>
+              <Text>(assessment)
+as National Statistics.</Text>
+            </SubSection>
+            <LineStart Number="35"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>Whether the
+targets in sections </Text>
+              <Jref Jref="j002">2</Jref>
+              <Text> to </Text>
+              <Jref Jref="j005">5</Jref>
+              <Text> have been met in relation to
+the target </Text>
+              <LineStart Number="36"/>
+              <Text>year is to be determined
+by reference to the percentages given in the statement.</Text>
+            </SubSection>
+            <LineStart Number="37"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>4</Number>
+              <Text>If any of
+the targets in sections </Text>
+              <Jref Jref="j002">2</Jref>
+              <Text> to </Text>
+              <Jref Jref="j005">5</Jref>
+              <Text> has not been met, the report
+under section </Text>
+              <Jref Jref="j105">13</Jref>
+              <Text>(3) must explain why it has not
+been met.</Text>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="38"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Economic
+and fiscal circumstances</CrossHeadingTitle>
+        <LineStart Number="39"/>
+        <Clause HardReference="j108" Quote="None" Draft="No">
+          <Number>15</Number>
+          <ClauseTitle Draft="No">Economic and fiscal circumstances</ClauseTitle>
+          <LineStart Number="40"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>The
+matters mentioned in subsection </Text>
+              <Xref Idref="mf.801j-1111659">(2)</Xref>
+              <Text> must
+be taken into account—</Text>
+              <LineStart Number="41"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>by the Secretary
+of State in preparing a UK strategy;</Text>
+              </Para>
+              <LineStart Number="42"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>by the Commission
+in considering any advice to be given to the </Text>
+                <LineStart Number="43"/>
+                <Text>Secretary
+of State, the Scottish Ministers or the relevant Northern </Text>
+                <LineStart Number="44"/>
+                <Text>Ireland department.</Text>
+              </Para>
+            </SubSection>
+            <PageStart Number="10"/>
+            <LineStart Number="1"/>
+            <SubSection Id="mf.801j-1111659" Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>Those matters
+are—</Text>
+              <LineStart Number="2"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>economic circumstances
+and in particular the likely impact of any </Text>
+                <LineStart Number="3"/>
+                <Text>measure
+on the economy;</Text>
+              </Para>
+              <LineStart Number="4"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>fiscal circumstances
+and in particular the likely impact of any measure </Text>
+                <LineStart Number="5"/>
+                <Text>on taxation, public spending and public borrowing.</Text>
+              </Para>
+            </SubSection>
+            <LineStart Number="6"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>In preparing
+a Scottish strategy or a Northern Ireland strategy, the Scottish </Text>
+              <LineStart Number="7"/>
+              <Text>Ministers or the relevant Northern Ireland department
+must have regard to—</Text>
+              <LineStart Number="8"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>the resources that
+are or may be available to the Scottish Ministers or, </Text>
+                <LineStart Number="9"/>
+                <Text>as the case may be, to the Northern Ireland departments,
+and</Text>
+              </Para>
+              <LineStart Number="10"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>the effect of the
+implementation of the strategy on those resources.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="11"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Continuing
+effect of targets after target year</CrossHeadingTitle>
+        <LineStart Number="12"/>
+        <Clause HardReference="j110" Quote="None" Draft="No">
+          <Number>16</Number>
+          <ClauseTitle Draft="No">Continuing effect of targets after target year</ClauseTitle>
+          <LineStart Number="13"/>
+          <ClauseText Draft="No" Quote="None">
+            <Text>Schedule </Text>
+            <Jref Jref="j110s">2</Jref>
+            <Text> contains provision about the
+effect of the targets in sections </Text>
+            <Jref Jref="j002">2</Jref>
+            <Text> to </Text>
+            <Jref Jref="j005">5</Jref>
+            <Text> in </Text>
+            <LineStart Number="14"/>
+            <Text>relation
+to financial years after the target year.</Text>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+      <LineStart Number="15"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Supplementary</CrossHeadingTitle>
+        <LineStart Number="16"/>
+        <Clause HardReference="j112" Quote="None" Draft="No">
+          <Number>17</Number>
+          <ClauseTitle Draft="No">Interpretation of Part 1</ClauseTitle>
+          <LineStart Number="17"/>
+          <ClauseText Draft="No" Quote="None">
+            <SubSection Id="mf.211j-1114129" Quote="None" Draft="No">
+              <Number>1</Number>
+              <Text>In this Part—</Text>
+              <LineStart Number="18"/>
+              <Definition Draft="No">
+                <Text>“the Commission” means
+the Child Poverty Commission;</Text>
+              </Definition>
+              <LineStart Number="19"/>
+              <Definition Draft="No">
+                <Text>“financial year” means
+the 12 months ending with 31 March;</Text>
+              </Definition>
+              <LineStart Number="20"/>
+              <Definition Draft="No">
+                <Text>“Northern Ireland strategy”
+has the meaning given by section </Text>
+                <Jref Jref="j101b">11</Jref>
+                <Text>(2);</Text>
+              </Definition>
+              <LineStart Number="21"/>
+              <Definition Draft="No">
+                <Text>“parent” means an individual
+having parental responsibility, as defined </Text>
+                <LineStart Number="22"/>
+                <Text>by
+subsection </Text>
+                <Xref Idref="mf.211j-1114513">(3)</Xref>
+                <Text>,
+for a child;</Text>
+              </Definition>
+              <LineStart Number="23"/>
+              <Definition Draft="No">
+                <Text>“the relevant Northern
+Ireland department” means the Office of the First </Text>
+                <LineStart Number="24"/>
+                <Text>Minister and deputy First Minister;</Text>
+              </Definition>
+              <LineStart Number="25"/>
+              <Definition Draft="No">
+                <Text>“Scottish strategy” has
+the meaning given by section </Text>
+                <Jref Jref="j101a">10</Jref>
+                <Text>(2);</Text>
+              </Definition>
+              <LineStart Number="26"/>
+              <Definition Draft="No">
+                <Text>“target year” (except
+in the expression “renewed target year”) has the </Text>
+                <LineStart Number="27"/>
+                <Text>meaning given by section </Text>
+                <Jref Jref="j001">1</Jref>
+                <Text>(2);</Text>
+              </Definition>
+              <LineStart Number="28"/>
+              <Definition Draft="No">
+                <Text>“UK strategy” has the
+meaning given by section </Text>
+                <Jref Jref="j101">8</Jref>
+                <Text>(2);</Text>
+              </Definition>
+              <LineStart Number="29"/>
+              <Definition Draft="No">
+                <Text>“Welsh strategy” means
+a strategy prepared by the Welsh Ministers under </Text>
+                <LineStart Number="30"/>
+                <Text>Part 1 of the Children and Families (Wales) Measure
+2009.</Text>
+              </Definition>
+            </SubSection>
+            <LineStart Number="31"/>
+            <SubSection Quote="None" Draft="No">
+              <Number>2</Number>
+              <Text>In this Part
+“qualifying household” and other terms relating to households are </Text>
+              <LineStart Number="32"/>
+              <Text>to be read in accordance with section </Text>
+              <Jref Jref="j006">6</Jref>
+              <Text>.</Text>
+            </SubSection>
+            <LineStart Number="33"/>
+            <SubSection Id="mf.211j-1114513" Quote="None" Draft="No">
+              <Number>3</Number>
+              <Text>In the definition
+of “parent” in subsection </Text>
+              <Xref Idref="mf.211j-1114129">(1)</Xref>
+              <Text>,
+the reference to “parental </Text>
+              <LineStart Number="34"/>
+              <Text>responsibility”— </Text>
+              <LineStart Number="35"/>
+              <Para Quote="None" Draft="No">
+                <Number>a</Number>
+                <Text>in relation to
+England and Wales, is to be read in accordance with the </Text>
+                <LineStart Number="36"/>
+                <Text>Children Act 1989,</Text>
+              </Para>
+              <LineStart Number="37"/>
+              <Para Quote="None" Draft="No">
+                <Number>b</Number>
+                <Text>in relation to
+Northern Ireland, is to be read in accordance with the </Text>
+                <LineStart Number="38"/>
+                <Text>Children (Northern Ireland) Order 1995, and</Text>
+              </Para>
+              <LineStart Number="39"/>
+              <Para Quote="None" Draft="No">
+                <Number>c</Number>
+                <Text>in relation to
+Scotland, is to be read as a reference to parental </Text>
+                <LineStart Number="40"/>
+                <Text>responsibilities within the meaning of the Children
+(Scotland) Act 1995.</Text>
+              </Para>
+            </SubSection>
+          </ClauseText>
+        </Clause>
+      </CrossHeading>
+    </Part>
+    <Part Id="Part-2" Quote="None">
+      <LineStart Number="41"/>
+      <PartNumber>Part 2</PartNumber>
+      <LineStart Number="42"/>
+      <PartTitle>Duties of local authorities and
+other bodies in England</PartTitle>
+      <LineStart Number="43"/>
+      <Clause HardReference="j200" Quote="None" Draft="No">
+        <Number>18</Number>
+        <ClauseTitle Draft="No">Responsible local authorities</ClauseTitle>
+        <LineStart Number="44"/>
+        <ClauseText Draft="No" Quote="None">
+          <Text>For the purposes of this
+Part, each of the following is a responsible local </Text>
+          <LineStart Number="45"/>
+          <Text>authority—</Text>
+          <LineStart Number="46"/>
+          <Para Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>a county council
+in England;</Text>
+          </Para>
+          <LineStart Number="47"/>
+          <Para Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>a district council
+in England, other than a council for a district in a </Text>
+            <LineStart Number="48"/>
+            <Text>county for which there is a county council;</Text>
+          </Para>
+          <LineStart Number="49"/>
+          <Para Quote="None" Draft="No">
+            <Number>c</Number>
+            <Text>a London borough
+council;</Text>
+          </Para>
+          <LineStart Number="50"/>
+          <Para Quote="None" Draft="No">
+            <Number>d</Number>
+            <Text>the Council of
+the Isles of Scilly;</Text>
+          </Para>
+          <LineStart Number="51"/>
+          <Para Quote="None" Draft="No">
+            <Number>e</Number>
+            <Text>the Common Council
+of the City of London in its capacity as a local </Text>
+            <LineStart Number="52"/>
+            <Text>authority.</Text>
+          </Para>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="53"/>
+      <Clause HardReference="j201" Quote="None" Draft="No">
+        <Number>19</Number>
+        <ClauseTitle Draft="No">Partner authorities</ClauseTitle>
+        <LineStart Number="54"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>For
+the purposes of this Part, each of the following is a partner authority
+in </Text>
+            <LineStart Number="55"/>
+            <Text>relation to a responsible
+local authority—</Text>
+            <LineStart Number="56"/>
+            <Para Id="mf.102j-1111597" Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>any
+person mentioned in subsection </Text>
+              <Xref Idref="mf.102j-1111628">(2)</Xref>
+              <Text> who
+acts or is established for an </Text>
+              <LineStart Number="57"/>
+              <Text>area
+which, or any part of which, coincides with or falls within the </Text>
+              <LineStart Number="58"/>
+              <Text>responsible local authority’s area;</Text>
+            </Para>
+            <LineStart Number="59"/>
+            <Para Id="mf.102j-1111614" Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>the
+person mentioned in subsection </Text>
+              <Xref Idref="mf.102j-1111892">(3)</Xref>
+              <Text>.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="60"/>
+          <SubSection Id="mf.102j-1111628" Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>The persons
+referred to in subsection </Text>
+            <Xref Idref="mf.102j-1111597">(1)(a)</Xref>
+            <Text> are—</Text>
+            <LineStart Number="61"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>any district council
+which is not a responsible local authority;</Text>
+            </Para>
+            <LineStart Number="62"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>a police authority;</Text>
+            </Para>
+            <LineStart Number="63"/>
+            <Para Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>a chief officer
+of police;</Text>
+            </Para>
+            <LineStart Number="64"/>
+            <Para Quote="None" Draft="No">
+              <Number>d</Number>
+              <Text>an Integrated Transport
+Authority for an integrated transport area in </Text>
+              <LineStart Number="65"/>
+              <Text>England;</Text>
+            </Para>
+            <LineStart Number="66"/>
+            <Para Quote="None" Draft="No">
+              <Number>e</Number>
+              <Text>Transport for London;</Text>
+            </Para>
+            <LineStart Number="67"/>
+            <Para Quote="None" Draft="No">
+              <Number>f</Number>
+              <Text>a Strategic Health
+Authority;</Text>
+            </Para>
+            <LineStart Number="68"/>
+            <Para Quote="None" Draft="No">
+              <Number>g</Number>
+              <Text>a Primary Care
+Trust;</Text>
+            </Para>
+            <LineStart Number="69"/>
+            <Para Quote="None" Draft="No">
+              <Number>h</Number>
+              <Text>a youth offending
+team established under section 39 of the Crime and </Text>
+              <LineStart Number="70"/>
+              <Text>Disorder Act 1998.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="71"/>
+          <SubSection Id="mf.102j-1111892" Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>The person
+referred to in subsection </Text>
+            <Xref Idref="mf.102j-1111614">(1)(b)</Xref>
+            <Text> is
+the Secretary of State, but only in </Text>
+            <LineStart Number="72"/>
+            <Text>relation
+to—</Text>
+            <LineStart Number="73"/>
+            <Para Id="mf.102j-1111961" Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>the
+Secretary of State’s functions under section 2 of the Employment </Text>
+              <LineStart Number="74"/>
+              <Text>and Training Act 1973 (arrangements with respect
+to obtaining etc. </Text>
+              <LineStart Number="75"/>
+              <Text>employment
+or employees);</Text>
+            </Para>
+            <LineStart Number="76"/>
+            <Para Id="mf.102j-1113832" Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>the
+Secretary of State’s functions under sections 2 and 3 of the Offender </Text>
+              <LineStart Number="77"/>
+              <Text>Management Act 2007 (responsibility for ensuring
+provision of </Text>
+              <LineStart Number="78"/>
+              <Text>probation services
+throughout England and Wales).</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="79"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>The Secretary
+of State’s functions under this Part as a partner authority of a </Text>
+            <LineStart Number="80"/>
+            <Text>local authority in relation to the functions
+referred to in subsection </Text>
+            <Xref Idref="mf.102j-1113832">(3)(b)</Xref>
+            <Text> are </Text>
+            <LineStart Number="81"/>
+            <Text>functions to which section 2(1)(c) of the Offender
+Management Act 2007 </Text>
+            <LineStart Number="82"/>
+            <Text>(functions
+to be performed through arrangements under section 3 of that Act) </Text>
+            <LineStart Number="83"/>
+            <Text>applies.</Text>
+          </SubSection>
+          <PageStart Number="12"/>
+          <LineStart Number="1"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>5</Number>
+            <Text>In subsection </Text>
+            <Xref Idref="mf.102j-1111597">(1)(a)</Xref>
+            <Text>,
+references to the area for which a person acts or is </Text>
+            <LineStart Number="2"/>
+            <Text>established are references—</Text>
+            <LineStart Number="3"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>in the case of the
+Commissioner of Police of the Metropolis, to the </Text>
+              <LineStart Number="4"/>
+              <Text>metropolitan police district (within the meaning
+of the Police Act 1996);</Text>
+            </Para>
+            <LineStart Number="5"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>in the case of the
+Commissioner of the City of London Police, to the City </Text>
+              <LineStart Number="6"/>
+              <Text>of London police area (within the meaning of that
+Act);</Text>
+            </Para>
+            <LineStart Number="7"/>
+            <Para Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>in the case of any
+other chief officer of police, to the police area listed in </Text>
+              <LineStart Number="8"/>
+              <Text>Schedule 1 to that Act for which the chief officer’s
+police force is </Text>
+              <LineStart Number="9"/>
+              <Text>maintained;</Text>
+            </Para>
+            <LineStart Number="10"/>
+            <Para Quote="None" Draft="No">
+              <Number>d</Number>
+              <Text>in the case of
+Transport for London, Greater London.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="11"/>
+          <SubSection Id="mf.102j-1112435" Quote="None" Draft="No">
+            <Number>6</Number>
+            <Text>The Secretary
+of State may by order—</Text>
+            <LineStart Number="12"/>
+            <Para Id="mf.102j-1112457" Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>amend
+subsection </Text>
+              <Xref Idref="mf.102j-1111628">(2)</Xref>
+              <Text> or </Text>
+              <Xref Idref="mf.102j-1111892">(3)</Xref>
+              <Text> by—</Text>
+              <LineStart Number="13"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>i</Number>
+                <Text>adding to it
+any person who has functions of a public nature;</Text>
+              </SubPara>
+              <LineStart Number="14"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>ii</Number>
+                <Text>removing from
+it any person for the time being mentioned in it; </Text>
+                <LineStart Number="15"/>
+                <Text>or</Text>
+              </SubPara>
+              <LineStart Number="16"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>iii</Number>
+                <Text>adding to
+subsection </Text>
+                <Xref Idref="mf.102j-1111892">(3)</Xref>
+                <Text> any
+function of the Secretary of State or </Text>
+                <LineStart Number="17"/>
+                <Text>removing
+from it any function for the time being mentioned in </Text>
+                <LineStart Number="18"/>
+                <Text>it; and</Text>
+              </SubPara>
+            </Para>
+            <LineStart Number="19"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>make such other
+amendments of this section as appear to the Secretary </Text>
+              <LineStart Number="20"/>
+              <Text>of State to be necessary or expedient in consequence
+of provision made </Text>
+              <LineStart Number="21"/>
+              <Text>under paragraph </Text>
+              <Xref Idref="mf.102j-1112457">(a)</Xref>
+              <Text>.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="22"/>
+          <SubSection Id="mf.102j-1113203" Quote="None" Draft="No">
+            <Number>7</Number>
+            <Text>Before making
+an order under subsection </Text>
+            <Xref Idref="mf.102j-1112435">(6)</Xref>
+            <Text> the
+Secretary of State must </Text>
+            <LineStart Number="23"/>
+            <Text>consult
+such representatives of local government and such other persons
+(if </Text>
+            <LineStart Number="24"/>
+            <Text>any) as the Secretary of
+State thinks fit.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="25"/>
+      <Clause HardReference="j204" Quote="None" Draft="No">
+        <Number>20</Number>
+        <ClauseTitle Draft="No">Co-operation to reduce child poverty in local area</ClauseTitle>
+        <LineStart Number="26"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>Each
+responsible local authority must make arrangements to promote co-</Text>
+            <LineStart Number="27"/>
+            <Text>operation between—</Text>
+            <LineStart Number="28"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>the authority;</Text>
+            </Para>
+            <LineStart Number="29"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>each of its partner
+authorities; and</Text>
+            </Para>
+            <LineStart Number="30"/>
+            <Para Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>such other persons
+or bodies as the authority thinks fit.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="31"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>The arrangements
+are to be made with a view to reducing, and mitigating the </Text>
+            <LineStart Number="32"/>
+            <Text>effects of, child poverty in the responsible
+local authority’s area.</Text>
+          </SubSection>
+          <LineStart Number="33"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>Each partner
+authority must co-operate with the responsible local authority in </Text>
+            <LineStart Number="34"/>
+            <Text>the making of arrangements under this section.</Text>
+          </SubSection>
+          <LineStart Number="35"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>The responsible
+local authority and each partner authority must, in exercising </Text>
+            <LineStart Number="36"/>
+            <Text>their functions under this section, have regard
+to any guidance given to them </Text>
+            <LineStart Number="37"/>
+            <Text>for
+the purpose by the Secretary of State.</Text>
+          </SubSection>
+          <LineStart Number="38"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>5</Number>
+            <Text>A responsible
+local authority and any partner authority may for the purposes </Text>
+            <LineStart Number="39"/>
+            <Text>of arrangements under this section—</Text>
+            <LineStart Number="40"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>provide staff,
+goods, services, accommodation or other resources;</Text>
+            </Para>
+            <LineStart Number="41"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>establish and maintain
+a pooled fund.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="42"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>6</Number>
+            <Text>A pooled
+fund is a fund—</Text>
+            <LineStart Number="43"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>which is made up
+of contributions by the responsible local authority </Text>
+              <LineStart Number="44"/>
+              <Text>and the partner authority or authorities concerned,
+and</Text>
+            </Para>
+            <PageStart Number="13"/>
+            <LineStart Number="1"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>out
+of which payments may be made towards expenditure incurred in </Text>
+              <LineStart Number="2"/>
+              <Text>the discharge of functions of the responsible
+local authority and </Text>
+              <LineStart Number="3"/>
+              <Text>functions
+of the partner authority or authorities.</Text>
+            </Para>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="4"/>
+      <Clause HardReference="j205" Quote="None" Draft="No">
+        <Number>21</Number>
+        <ClauseTitle Draft="No">Local child poverty needs assessment</ClauseTitle>
+        <LineStart Number="5"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>The
+arrangements made by a responsible local authority under section </Text>
+            <Jref Jref="j204">20</Jref>
+            <Text> must </Text>
+            <LineStart Number="6"/>
+            <Text>include
+arrangements to prepare and publish an assessment of the needs of </Text>
+            <LineStart Number="7"/>
+            <Text>children living in poverty in its area (“a local
+child poverty needs assessment”).</Text>
+          </SubSection>
+          <LineStart Number="8"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>The Secretary
+of State may by regulations make provision about local child </Text>
+            <LineStart Number="9"/>
+            <Text>poverty needs assessments. </Text>
+          </SubSection>
+          <LineStart Number="10"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>Those regulations
+may in particular include provision as to—</Text>
+            <LineStart Number="11"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>matters that must
+be considered in a local child poverty needs </Text>
+              <LineStart Number="12"/>
+              <Text>assessment;</Text>
+            </Para>
+            <LineStart Number="13"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>when and how an
+assessment must be published;</Text>
+            </Para>
+            <LineStart Number="14"/>
+            <Para Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>keeping an assessment
+under review;</Text>
+            </Para>
+            <LineStart Number="15"/>
+            <Para Quote="None" Draft="No">
+              <Number>d</Number>
+              <Text>when and how an
+assessment must be revised;</Text>
+            </Para>
+            <LineStart Number="16"/>
+            <Para Quote="None" Draft="No">
+              <Number>e</Number>
+              <Text>consultation to
+be carried out during the preparation or revision of an </Text>
+              <LineStart Number="17"/>
+              <Text>assessment;</Text>
+            </Para>
+            <LineStart Number="18"/>
+            <Para Quote="None" Draft="No">
+              <Number>f</Number>
+              <Text>other steps required
+or permitted to be taken in connection with the </Text>
+              <LineStart Number="19"/>
+              <Text>preparation or revision of an assessment.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="20"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>The responsible
+local authority and each partner authority must, in exercising </Text>
+            <LineStart Number="21"/>
+            <Text>their functions under this section, have regard
+to any guidance given to them </Text>
+            <LineStart Number="22"/>
+            <Text>for
+the purpose by the Secretary of State.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="23"/>
+      <Clause HardReference="j206" Quote="None" Draft="No">
+        <Number>22</Number>
+        <ClauseTitle Draft="No">Joint child poverty strategy for local area</ClauseTitle>
+        <LineStart Number="24"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>The
+arrangements made by a responsible local authority under section </Text>
+            <Jref Jref="j204">20</Jref>
+            <Text> must </Text>
+            <LineStart Number="25"/>
+            <Text>include
+arrangements to prepare a joint child poverty strategy in relation
+to its </Text>
+            <LineStart Number="26"/>
+            <Text>area and to modify it
+in accordance with this section.</Text>
+          </SubSection>
+          <LineStart Number="27"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>The joint
+child poverty strategy must set out the measures that the responsible </Text>
+            <LineStart Number="28"/>
+            <Text>local authority and each partner authority propose
+to take for the purpose of </Text>
+            <LineStart Number="29"/>
+            <Text>reducing,
+and mitigating the effects of, child poverty in the responsible
+local </Text>
+            <LineStart Number="30"/>
+            <Text>authority’s area.</Text>
+          </SubSection>
+          <LineStart Number="31"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>Those measures—</Text>
+            <LineStart Number="32"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>must include measures
+relating to matters identified in a local child </Text>
+              <LineStart Number="33"/>
+              <Text>poverty needs assessment;</Text>
+            </Para>
+            <LineStart Number="34"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>may include measures
+relating to other matters identified by the </Text>
+              <LineStart Number="35"/>
+              <Text>responsible
+local authority or a partner authority in connection with </Text>
+              <LineStart Number="36"/>
+              <Text>child poverty in the responsible local authority’s
+area.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="37"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>The responsible
+local authority may at any time modify the joint child poverty </Text>
+            <LineStart Number="38"/>
+            <Text>strategy.</Text>
+          </SubSection>
+          <LineStart Number="39"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>5</Number>
+            <Text>When a responsible
+local authority revises a local child poverty needs </Text>
+            <LineStart Number="40"/>
+            <Text>assessment it must consider whether any modification
+of the joint child </Text>
+            <LineStart Number="41"/>
+            <Text>poverty
+strategy is required.</Text>
+          </SubSection>
+          <LineStart Number="42"/>
+          <SubSection Id="mf.602j-1112058" Quote="None" Draft="No">
+            <Number>6</Number>
+            <Text>In preparing
+or modifying the joint child poverty strategy, the responsible local </Text>
+            <LineStart Number="43"/>
+            <Text>authority—</Text>
+            <PageStart Number="14"/>
+            <LineStart Number="1"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>must
+consult such children, and organisations working with or </Text>
+              <LineStart Number="2"/>
+              <Text>representing children, as the authority thinks
+fit;</Text>
+            </Para>
+            <LineStart Number="3"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>may consult such
+other persons or bodies as the authority thinks fit.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="4"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>7</Number>
+            <Text>The responsible
+local authority and each partner authority must, in exercising </Text>
+            <LineStart Number="5"/>
+            <Text>their functions under this section, have regard
+to any guidance given to them </Text>
+            <LineStart Number="6"/>
+            <Text>for
+the purpose by the Secretary of State.</Text>
+          </SubSection>
+          <LineStart Number="7"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>8</Number>
+            <Text>The responsible
+local authority and each partner authority must have regard to </Text>
+            <LineStart Number="8"/>
+            <Text>the joint child poverty strategy in exercising
+their functions.</Text>
+          </SubSection>
+          <LineStart Number="9"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>9</Number>
+            <Text>References
+in this section to a local child poverty needs assessment are to
+a </Text>
+            <LineStart Number="10"/>
+            <Text>local child poverty needs
+assessment prepared by the responsible local </Text>
+            <LineStart Number="11"/>
+            <Text>authority
+under section </Text>
+            <Jref Jref="j205">21</Jref>
+            <Text>.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="12"/>
+      <Clause HardReference="j208" Quote="None" Draft="No">
+        <Number>23</Number>
+        <ClauseTitle Draft="No">Sustainable community strategy</ClauseTitle>
+        <LineStart Number="13"/>
+        <ClauseText Draft="No" Quote="None">
+          <Text>In section 4 of the Local
+Government Act 2000 (strategies for promoting well-</Text>
+          <LineStart Number="14"/>
+          <Text>being), in subsection (3)—</Text>
+          <LineStart Number="15"/>
+          <Para Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>omit the word “and”
+immediately after sub-paragraph (ii) of paragraph </Text>
+            <LineStart Number="16"/>
+            <Text>(a), and</Text>
+          </Para>
+          <LineStart Number="17"/>
+          <Para Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>after paragraph
+(a) insert—</Text>
+            <LineStart Number="18"/>
+            <Amendment>
+              <Para Quote="Double" Draft="No">
+                <Number>aa</Number>
+                <Text>must, if
+it is a local authority in England, have regard to </Text>
+                <LineStart Number="19"/>
+                <Text>the following, so far as they relate to the authority’s </Text>
+                <LineStart Number="20"/>
+                <Text>area—</Text>
+                <LineStart Number="21"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>i</Number>
+                  <Text>any arrangements
+made under section </Text>
+                  <Jref Jref="j204">20</Jref>
+                  <Text> of the </Text>
+                  <LineStart Number="22"/>
+                  <Text>Child
+Poverty Act 2010 (co-operation to reduce </Text>
+                  <LineStart Number="23"/>
+                  <Text>child
+poverty in local area);</Text>
+                </SubPara>
+                <LineStart Number="24"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>ii</Number>
+                  <Text>any local child
+poverty needs assessment </Text>
+                  <LineStart Number="25"/>
+                  <Text>prepared
+under section </Text>
+                  <Jref Jref="j205">21</Jref>
+                  <Text> of that Act (local child </Text>
+                  <LineStart Number="26"/>
+                  <Text>poverty needs assessment);</Text>
+                </SubPara>
+                <LineStart Number="27"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>iii</Number>
+                  <Text>any joint
+child poverty strategy prepared under </Text>
+                  <LineStart Number="28"/>
+                  <Text>section </Text>
+                  <Jref Jref="j206">22</Jref>
+                  <Text> of that Act (joint child poverty </Text>
+                  <LineStart Number="29"/>
+                  <Text>strategy for local area), and”.</Text>
+                </SubPara>
+              </Para>
+            </Amendment>
+          </Para>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="30"/>
+      <Clause HardReference="j203" Quote="None" Draft="No">
+        <Number>24</Number>
+        <ClauseTitle Draft="No">Meaning of “child poverty” in Part 2</ClauseTitle>
+        <LineStart Number="31"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>This
+section has effect for the interpretation of this Part.</Text>
+          </SubSection>
+          <LineStart Number="32"/>
+          <SubSection Id="mf.302j-1111701" Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>A child is
+to be taken to be living in poverty if the child experiences socio-</Text>
+            <LineStart Number="33"/>
+            <Text>economic disadvantage, and references to “child
+poverty” have a </Text>
+            <LineStart Number="34"/>
+            <Text>corresponding
+meaning.</Text>
+          </SubSection>
+          <LineStart Number="35"/>
+          <SubSection Id="mf.302j-1114175" Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>Without limiting
+subsection </Text>
+            <Xref Idref="mf.302j-1111701">(2)</Xref>
+            <Text>,
+a child is to be taken to experience socio-</Text>
+            <LineStart Number="36"/>
+            <Text>economic
+disadvantage during any period in which—</Text>
+            <LineStart Number="37"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>the child lives
+in a household that falls within the relevant income </Text>
+              <LineStart Number="38"/>
+              <Text>group for the purposes of section </Text>
+              <Jref Jref="j002">2</Jref>
+              <Text> (the relative low income target)
+or </Text>
+              <LineStart Number="39"/>
+              <Text>section </Text>
+              <Jref Jref="j004">4</Jref>
+              <Text> (the absolute low income target),
+or</Text>
+            </Para>
+            <LineStart Number="40"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>the child lives
+in a household that falls within the relevant income </Text>
+              <LineStart Number="41"/>
+              <Text>group for the purposes of subsection (1)(a) of
+section </Text>
+              <Jref Jref="j003">3</Jref>
+              <Text> (combined low </Text>
+              <LineStart Number="42"/>
+              <Text>income and material deprivation target) and is
+regarded for the </Text>
+              <LineStart Number="43"/>
+              <Text>purposes of
+subsection (1)(b) of that section as experiencing material </Text>
+              <LineStart Number="44"/>
+              <Text>deprivation.</Text>
+            </Para>
+          </SubSection>
+          <PageStart Number="15"/>
+          <LineStart Number="1"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>Expressions used in subsection </Text>
+            <Xref Idref="mf.302j-1114175">(3)</Xref>
+            <Text> and
+in Part 1 of this Act have the same </Text>
+            <LineStart Number="2"/>
+            <Text>meaning
+in that subsection as in that Part.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+    </Part>
+    <Part Id="Part-3" Quote="None">
+      <LineStart Number="3"/>
+      <PartNumber>Part 3</PartNumber>
+      <LineStart Number="4"/>
+      <PartTitle>Miscellaneous and General</PartTitle>
+      <LineStart Number="5"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>Free school
+lunches and milk</CrossHeadingTitle>
+      </CrossHeading>
+      <LineStart Number="6"/>
+      <Clause HardReference="j1809" Quote="None" Draft="No">
+        <Number>25</Number>
+        <ClauseTitle Draft="No">Free school lunches and milk</ClauseTitle>
+        <LineStart Number="7"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>In
+section 512ZB of the Education Act 1996 (provision of free school
+lunches </Text>
+            <LineStart Number="8"/>
+            <Text>and milk), in subsection
+(4)—</Text>
+            <LineStart Number="9"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>after “A person”
+insert “(“C”)”,</Text>
+            </Para>
+            <LineStart Number="10"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>in paragraph (a)—</Text>
+              <LineStart Number="11"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>i</Number>
+                <Text>for “his parent”
+substitute “C’s parent”,</Text>
+              </SubPara>
+              <LineStart Number="12"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>ii</Number>
+                <Text>at the end
+of sub-paragraph (iia), insert “or”, and</Text>
+              </SubPara>
+              <LineStart Number="13"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>iii</Number>
+                <Text>omit sub-paragraph
+(iv) (including the “or” immediately </Text>
+                <LineStart Number="14"/>
+                <Text>following
+it),</Text>
+              </SubPara>
+            </Para>
+            <LineStart Number="15"/>
+            <Para Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>after paragraph
+(a) insert—</Text>
+              <LineStart Number="16"/>
+              <Amendment>
+                <Para Quote="Double" Draft="No">
+                  <Number>aa</Number>
+                  <Text>C meets any
+conditions prescribed for the purposes of </Text>
+                  <LineStart Number="17"/>
+                  <Text>this
+paragraph and C’s parent is, in such circumstances </Text>
+                  <LineStart Number="18"/>
+                  <Text>as may be so prescribed— </Text>
+                  <LineStart Number="19"/>
+                  <SubPara Quote="None" Draft="No">
+                    <Number>i</Number>
+                    <Text>in receipt of
+any benefit or allowance not falling </Text>
+                    <LineStart Number="20"/>
+                    <Text>within
+paragraph (a) that is so prescribed, or</Text>
+                  </SubPara>
+                  <LineStart Number="21"/>
+                  <SubPara Quote="None" Draft="No">
+                    <Number>ii</Number>
+                    <Text>entitled to
+any tax credit under the Tax Credits </Text>
+                    <LineStart Number="22"/>
+                    <Text>Act
+2002 or element of such a tax credit, that is so </Text>
+                    <LineStart Number="23"/>
+                    <Text>prescribed, or”,</Text>
+                  </SubPara>
+                </Para>
+              </Amendment>
+            </Para>
+            <LineStart Number="24"/>
+            <Para Quote="None" Draft="No">
+              <Number>d</Number>
+              <Text>in paragraph (b)—</Text>
+              <LineStart Number="25"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>i</Number>
+                <Text>for “he, himself,
+is—” substitute “C is—”,</Text>
+              </SubPara>
+              <LineStart Number="26"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>ii</Number>
+                <Text>at the end
+of sub-paragraph (ii), insert “or”, and</Text>
+              </SubPara>
+              <LineStart Number="27"/>
+              <SubPara Quote="None" Draft="No">
+                <Number>iii</Number>
+                <Text>omit sub-paragraph
+(iii), and</Text>
+              </SubPara>
+            </Para>
+          </SubSection>
+          <LineStart Number="28"/>
+          <Para Quote="None" Draft="No">
+            <Number>e</Number>
+            <Text>at the end insert—</Text>
+            <LineStart Number="29"/>
+            <Amendment>
+              <Para Quote="Double" Draft="No">
+                <Number>c</Number>
+                <Text>C
+meets any conditions prescribed for the purposes of </Text>
+                <LineStart Number="30"/>
+                <Text>this paragraph and is—</Text>
+                <LineStart Number="31"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>i</Number>
+                  <Text>in receipt of
+any benefit or allowance not falling </Text>
+                  <LineStart Number="32"/>
+                  <Text>within
+paragraph (b) that is so prescribed, or</Text>
+                </SubPara>
+                <LineStart Number="33"/>
+                <SubPara Quote="None" Draft="No">
+                  <Number>ii</Number>
+                  <Text>entitled to
+any tax credit under the Tax Credits </Text>
+                  <LineStart Number="34"/>
+                  <Text>Act
+2002 or element of such a tax credit, that is so </Text>
+                  <LineStart Number="35"/>
+                  <Text>prescribed.”</Text>
+                </SubPara>
+              </Para>
+            </Amendment>
+          </Para>
+          <LineStart Number="36"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>Any regulations
+made under paragraph (a)(iv) of subsection (4) of section </Text>
+            <LineStart Number="37"/>
+            <Text>512ZB of the Education Act 1996 and in force
+immediately before the coming </Text>
+            <LineStart Number="38"/>
+            <Text>into
+force of this section are to have effect as if made under paragraph
+(aa) of </Text>
+            <LineStart Number="39"/>
+            <Text>that subsection.</Text>
+          </SubSection>
+          <LineStart Number="40"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>Any regulations
+made under paragraph (b)(iii) of subsection (4) of section </Text>
+            <LineStart Number="41"/>
+            <Text>512ZB of the Education Act 1996 and in force
+immediately before the coming </Text>
+            <LineStart Number="42"/>
+            <Text>into
+force of this section are to have effect as if made under paragraph
+(c) of that </Text>
+            <LineStart Number="43"/>
+            <Text>subsection.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <PageStart Number="16"/>
+      <LineStart Number="1"/>
+      <CrossHeading Quote="None">
+        <CrossHeadingTitle>General</CrossHeadingTitle>
+      </CrossHeading>
+      <LineStart Number="2"/>
+      <Clause HardReference="j909" Quote="None" Draft="No">
+        <Number>26</Number>
+        <ClauseTitle Draft="No">General interpretation</ClauseTitle>
+        <LineStart Number="3"/>
+        <ClauseText Draft="No" Quote="None">
+          <Text>In this Act—</Text>
+          <LineStart Number="4"/>
+          <Definition Draft="No">
+            <Text>“child” means—</Text>
+            <LineStart Number="5"/>
+            <DefinitionList Draft="No" Quote="None">
+              <DefinitionListItem Quote="None" Draft="No">
+                <Text>a
+person under the age of 16, or</Text>
+              </DefinitionListItem>
+              <LineStart Number="6"/>
+              <DefinitionListItem Quote="None" Draft="No">
+                <Text>a person who is
+a qualifying young person for the purposes of </Text>
+                <LineStart Number="7"/>
+                <Text>Part 9 of the Social Security Contributions and
+Benefits Act 1992 </Text>
+                <LineStart Number="8"/>
+                <Text>or Part 9
+of the Social Security Contributions and Benefits </Text>
+                <LineStart Number="9"/>
+                <Text>(Northern Ireland) Act 1992 (child benefit);</Text>
+              </DefinitionListItem>
+            </DefinitionList>
+          </Definition>
+          <LineStart Number="10"/>
+          <Definition Draft="No">
+            <Text>“prescribed” means prescribed
+by regulations;</Text>
+          </Definition>
+          <LineStart Number="11"/>
+          <Definition Draft="No">
+            <Text>“regulations” means regulations
+made by the Secretary of State under this </Text>
+            <LineStart Number="12"/>
+            <Text>Act.</Text>
+          </Definition>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="13"/>
+      <Clause HardReference="j901" Quote="None" Draft="No">
+        <Number>27</Number>
+        <ClauseTitle Draft="No">Regulations and orders</ClauseTitle>
+        <LineStart Number="14"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>Any
+power to make regulations or an order under this Act is exercisable
+by </Text>
+            <LineStart Number="15"/>
+            <Text>statutory instrument.</Text>
+          </SubSection>
+          <LineStart Number="16"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>Any regulations
+or order under this Act may—</Text>
+            <LineStart Number="17"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>make different
+provision for different cases,</Text>
+            </Para>
+            <LineStart Number="18"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>include supplementary,
+incidental and consequential provision, and</Text>
+            </Para>
+            <LineStart Number="19"/>
+            <Para Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>make transitional
+provisions and savings.</Text>
+            </Para>
+          </SubSection>
+          <LineStart Number="20"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>A power conferred
+by any provision of this Act to make regulations or an order </Text>
+            <LineStart Number="21"/>
+            <Text>includes power to provide for a person to exercise
+a discretion in dealing with </Text>
+            <LineStart Number="22"/>
+            <Text>any
+matter.</Text>
+          </SubSection>
+          <LineStart Number="23"/>
+          <SubSection Id="mf.109j-1111636" Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>A statutory
+instrument containing—</Text>
+            <LineStart Number="24"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>regulations under
+any provision of this Act, other than regulations </Text>
+              <LineStart Number="25"/>
+              <Text>made only under section </Text>
+              <Jref Jref="j004">4</Jref>
+              <Text>(3) or </Text>
+              <Jref Jref="j205">21</Jref>
+              <Text>(2), or</Text>
+            </Para>
+            <LineStart Number="26"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>an order under
+section </Text>
+              <Jref Jref="j3001">7</Jref>
+              <Text>(4),</Text>
+            </Para>
+            <LineStart Number="27"/>
+            <TextContinuation>may not be made unless
+a draft of the instrument has been laid before, and <LineStart Number="28"/>approved
+by a resolution of, each House of Parliament.</TextContinuation>
+          </SubSection>
+          <LineStart Number="29"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>5</Number>
+            <Text>A statutory
+instrument containing—</Text>
+            <LineStart Number="30"/>
+            <Para Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>regulations made
+only under section </Text>
+              <Jref Jref="j004">4</Jref>
+              <Text>(3) or </Text>
+              <Jref Jref="j205">21</Jref>
+              <Text>(2), or</Text>
+            </Para>
+            <LineStart Number="31"/>
+            <Para Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>an order under
+section </Text>
+              <Jref Jref="j201">19</Jref>
+              <Text>(6),</Text>
+            </Para>
+            <LineStart Number="32"/>
+            <TextContinuation>is subject to annulment
+in pursuance of a resolution of either House of <LineStart Number="33"/>Parliament.</TextContinuation>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="34"/>
+      <Clause HardReference="j907" Quote="None" Draft="No">
+        <Number>28</Number>
+        <ClauseTitle Draft="No">Financial provisions</ClauseTitle>
+        <LineStart Number="35"/>
+        <ClauseText Draft="No" Quote="None">
+          <Text>There is to be paid out
+of money provided by Parliament—</Text>
+          <LineStart Number="36"/>
+          <Para Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>any expenditure
+incurred under or by virtue of this Act by a Minister </Text>
+            <LineStart Number="37"/>
+            <Text>of the Crown, and</Text>
+          </Para>
+          <LineStart Number="38"/>
+          <Para Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>any increase attributable
+to this Act in the sums payable under any </Text>
+            <LineStart Number="39"/>
+            <Text>other
+Act out of money so provided.</Text>
+          </Para>
+        </ClauseText>
+      </Clause>
+      <PageStart Number="17"/>
+      <LineStart Number="1"/>
+      <Clause HardReference="j903" Quote="None" Draft="No">
+        <Number>29</Number>
+        <ClauseTitle Draft="No">Extent</ClauseTitle>
+        <LineStart Number="2"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>Except
+as provided by subsections </Text>
+            <Xref Idref="mf.309j-1111760">(2)</Xref>
+            <Text> to </Text>
+            <Xref Idref="mf.309j-1111807">(4)</Xref>
+            <Text>,
+the provisions of this Act extend </Text>
+            <LineStart Number="3"/>
+            <Text>to
+England and Wales, Scotland and Northern Ireland.</Text>
+          </SubSection>
+          <LineStart Number="4"/>
+          <SubSection Id="mf.309j-1111760" Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>Section </Text>
+            <Jref Jref="j101a">10</Jref>
+            <Text> extends to Scotland only.</Text>
+          </SubSection>
+          <LineStart Number="5"/>
+          <SubSection Quote="None" Draft="No">
+            <Number>3</Number>
+            <Text>Section </Text>
+            <Jref Jref="j101b">11</Jref>
+            <Text> extends to Northern Ireland
+only.</Text>
+          </SubSection>
+          <LineStart Number="6"/>
+          <SubSection Id="mf.309j-1111807" Quote="None" Draft="No">
+            <Number>4</Number>
+            <Text>Part
+2 and section </Text>
+            <Jref Jref="j1809">25</Jref>
+            <Text> extend to England and Wales
+only.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="7"/>
+      <Clause HardReference="j906" Quote="None" Draft="No">
+        <Number>30</Number>
+        <ClauseTitle Draft="No">Commencement</ClauseTitle>
+        <LineStart Number="8"/>
+        <ClauseText Draft="No" Quote="None">
+          <SubSection Quote="None" Draft="No">
+            <Number>1</Number>
+            <Text>This
+Act, except Part 2 and section </Text>
+            <Jref Jref="j1809">25</Jref>
+            <Text>, comes into force on the day
+on which this </Text>
+            <LineStart Number="9"/>
+            <Text>Act is passed.</Text>
+          </SubSection>
+          <LineStart Number="10"/>
+          <SubSection Id="mf.609j-1112571" Quote="None" Draft="No">
+            <Number>2</Number>
+            <Text>Part 2 and
+section </Text>
+            <Jref Jref="j1809">25</Jref>
+            <Text> come into force at the end
+of the period of 2 months </Text>
+            <LineStart Number="11"/>
+            <Text>beginning
+with the day on which this Act is passed.</Text>
+          </SubSection>
+        </ClauseText>
+      </Clause>
+      <LineStart Number="12"/>
+      <Clause HardReference="j905" Quote="None" Draft="No">
+        <Number>31</Number>
+        <ClauseTitle Draft="No">Short title</ClauseTitle>
+        <LineStart Number="13"/>
+        <ClauseText Draft="No" Quote="None">
+          <Text>This Act may be cited
+as the Child Poverty Act 2010.</Text>
+        </ClauseText>
+      </Clause>
+    </Part>
+  </Clauses>
+  <?Fm Document Schedules.fm?>
+  <Schedules One="No">
+    <PageStart Number="18"/>
+    <LineStart Number="1"/>
+    <SchedulesTitle>
+      <Text>Schedules</Text>
+    </SchedulesTitle>
+    <Schedule HardReference="j3001s" Quote="None" Draft="No">
+      <LineStart Number="2"/>
+      <ScheduleNumber Draft="No">Schedule 1</ScheduleNumber>
+      <LineStart Number="3"/>
+      <SectionReference>Section 7</SectionReference>
+      <LineStart Number="4"/>
+      <ScheduleTitle>The Child Poverty Commission</ScheduleTitle>
+      <LineStart Number="5"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Membership,
+chair and deputy chair</CrossHeadingTitle>
+        <LineStart Number="6"/>
+        <Para.sch Major_Number_Only="1" Quote="None" Draft="No">
+          <Number>1  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>1  1</Number>
+            <Jref Jref="j3001">The members of the Commission are to be—</Jref>
+            <LineStart Number="7"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>a chair
+appointed by the Secretary of State,</Text>
+            </SubSubPara.sch>
+            <LineStart Number="8"/>
+            <SubSubPara.sch Id="mf.s1003j-1082554" Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>a member
+appointed by the Scottish Ministers,</Text>
+            </SubSubPara.sch>
+            <LineStart Number="9"/>
+            <SubSubPara.sch Id="mf.s1003j-1084182" Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>a member
+appointed by the Welsh Ministers,</Text>
+            </SubSubPara.sch>
+            <LineStart Number="10"/>
+            <SubSubPara.sch Id="mf.s1003j-1082576" Quote="None" Draft="No">
+              <Number>d</Number>
+              <Text>a member
+appointed by the relevant Northern Ireland department, </Text>
+              <LineStart Number="11"/>
+              <Text>and</Text>
+            </SubSubPara.sch>
+            <LineStart Number="12"/>
+            <SubSubPara.sch Id="mf.s1003j-1060439" Quote="None" Draft="No">
+              <Number>e</Number>
+              <Text>such
+number of other members appointed by the Secretary of State </Text>
+              <LineStart Number="13"/>
+              <Text>as the Secretary of State may determine.</Text>
+            </SubSubPara.sch>
+          </SubPara.sch>
+          <LineStart Number="14"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>Before appointing
+a member under sub-paragraph </Text>
+            <Xref Idref="mf.s1003j-1060439">(1)(e)</Xref>
+            <Text>,
+the Secretary of </Text>
+            <LineStart Number="15"/>
+            <Text>State must
+consult—</Text>
+            <LineStart Number="16"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>the chair,
+and</Text>
+            </SubSubPara.sch>
+            <LineStart Number="17"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>the Scottish
+Ministers, the Welsh Ministers and the relevant </Text>
+              <LineStart Number="18"/>
+              <Text>Northern Ireland department.</Text>
+            </SubSubPara.sch>
+          </SubPara.sch>
+          <LineStart Number="19"/>
+          <SubPara.sch Minor_Number_Only="3" Draft="No" Quote="None">
+            <Number>3</Number>
+            <Text>The Secretary
+of State may, after consulting the chair, appoint one of the </Text>
+            <LineStart Number="20"/>
+            <Text>members as the deputy chair.</Text>
+          </SubPara.sch>
+          <LineStart Number="21"/>
+          <SubPara.sch Minor_Number_Only="4" Draft="No" Quote="None">
+            <Number>4</Number>
+            <Text>The Secretary
+of State must have regard to the desirability of securing that </Text>
+            <LineStart Number="22"/>
+            <Text>the Commission (taken as a whole) has experience
+in or knowledge of—</Text>
+            <LineStart Number="23"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>the formulation,
+implementation and evaluation of policy relating to </Text>
+              <LineStart Number="24"/>
+              <Text>child poverty;</Text>
+            </SubSubPara.sch>
+            <LineStart Number="25"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>research
+in connection with child poverty;</Text>
+            </SubSubPara.sch>
+            <LineStart Number="26"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>work
+with children and families experiencing poverty.</Text>
+            </SubSubPara.sch>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="27"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Term
+of office</CrossHeadingTitle>
+        <LineStart Number="28"/>
+        <Para.sch Major_Number_Only="2" Quote="None" Draft="No">
+          <Number>2</Number>
+          <Text>Members
+are to hold and vacate office in accordance with the terms of their </Text>
+          <LineStart Number="29"/>
+          <Text>appointment, subject to the following provisions.</Text>
+        </Para.sch>
+        <LineStart Number="30"/>
+        <Para.sch Major_Number_Only="3" Quote="None" Draft="No">
+          <Number>3</Number>
+          <Text>Members
+must be appointed for a term of not more than 5 years.</Text>
+        </Para.sch>
+        <LineStart Number="31"/>
+        <Para.sch Major_Number_Only="4" Quote="None" Draft="No">
+          <Number>4</Number>
+          <Text>The
+consent of the Secretary of State is required for the terms of an </Text>
+          <LineStart Number="32"/>
+          <Text>appointment made under paragraph </Text>
+          <Xref Idref="mf.s1003j-1082554">1(1)(b)</Xref>
+          <Text> to </Text>
+          <Xref Idref="mf.s1003j-1082576">(d)</Xref>
+          <Text>.</Text>
+        </Para.sch>
+        <LineStart Number="33"/>
+        <Para.sch Major_Number_Only="5" Quote="None" Draft="No">
+          <Number>5</Number>
+          <Text>A
+member may resign by giving notice in writing to the Secretary of
+State.</Text>
+        </Para.sch>
+        <LineStart Number="34"/>
+        <Para.sch Major_Number_Only="6" Quote="None" Draft="No">
+          <Number>6</Number>
+          <Text>The
+Secretary of State may remove a member if—</Text>
+          <LineStart Number="35"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>the person
+has been absent from 3 or more consecutive meetings of </Text>
+            <LineStart Number="36"/>
+            <Text>the Commission, without its permission,</Text>
+          </SubSubPara.sch>
+          <PageStart Number="19"/>
+          <LineStart Number="1"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>the person has become bankrupt
+or has made an arrangement with </Text>
+            <LineStart Number="2"/>
+            <Text>creditors,</Text>
+          </SubSubPara.sch>
+          <LineStart Number="3"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>c</Number>
+            <Text>the person’s
+estate has been sequestrated in Scotland or the person, </Text>
+            <LineStart Number="4"/>
+            <Text>under Scots law, has made a composition or arrangement
+with, or </Text>
+            <LineStart Number="5"/>
+            <Text>granted a trust deed
+for, creditors, or</Text>
+          </SubSubPara.sch>
+          <LineStart Number="6"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>d</Number>
+            <Text>the Secretary
+of State is satisfied that the person is otherwise unable </Text>
+            <LineStart Number="7"/>
+            <Text>or unfit to perform the duties of the office.</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+        <LineStart Number="8"/>
+        <Para.sch Major_Number_Only="7" Quote="None" Draft="No">
+          <Number>7</Number>
+          <Text>A
+person ceases to be the chair or the deputy chair if the person—</Text>
+          <LineStart Number="9"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>resigns
+that office by giving notice in writing to the Secretary of State, </Text>
+            <LineStart Number="10"/>
+            <Text>or</Text>
+          </SubSubPara.sch>
+          <LineStart Number="11"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>ceases
+to be a member.</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+        <LineStart Number="12"/>
+        <Para.sch Major_Number_Only="8" Quote="None" Draft="No">
+          <Number>8</Number>
+          <Text>A
+person who holds or has held office as the chair, or as the deputy
+chair or </Text>
+          <LineStart Number="13"/>
+          <Text>other member, may
+be reappointed, whether or not to the same office.</Text>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="14"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Staff
+and facilities</CrossHeadingTitle>
+        <LineStart Number="15"/>
+        <Para.sch Major_Number_Only="9" Quote="None" Draft="No">
+          <Number>9</Number>
+          <Text>The
+Secretary of State may provide the Commission with—</Text>
+          <LineStart Number="16"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>such
+staff,</Text>
+          </SubSubPara.sch>
+          <LineStart Number="17"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>such
+accommodation, equipment and other facilities, and</Text>
+          </SubSubPara.sch>
+          <LineStart Number="18"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>c</Number>
+            <Text>such
+sums,</Text>
+          </SubSubPara.sch>
+          <LineStart Number="19"/>
+          <TextContinuation>as the Secretary of State
+may determine are required by the Commission in <LineStart Number="20"/>the
+exercise of its functions.</TextContinuation>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="21"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Research</CrossHeadingTitle>
+        <LineStart Number="22"/>
+        <Para.sch Major_Number_Only="10" Quote="None" Draft="No">
+          <Number>10  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>10  1</Number>
+            <Text>The
+Commission may at any time request the Secretary of State to carry
+out, </Text>
+            <LineStart Number="23"/>
+            <Text>or commission others to
+carry out, such research on behalf of the </Text>
+            <LineStart Number="24"/>
+            <Text>Commission
+for the purpose of the carrying out of the Commission’s </Text>
+            <LineStart Number="25"/>
+            <Text>functions as the Commission may specify in the
+request.</Text>
+          </SubPara.sch>
+          <LineStart Number="26"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>If the Secretary
+of State decides not to comply with the request, the Secretary </Text>
+            <LineStart Number="27"/>
+            <Text>of State must notify the Commission of the reasons
+for the decision.</Text>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="28"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Payments
+to members</CrossHeadingTitle>
+        <LineStart Number="29"/>
+        <Para.sch Major_Number_Only="11" Quote="None" Draft="No">
+          <Number>11</Number>
+          <Text>The Secretary
+of State may pay to or in respect of the members of the </Text>
+          <LineStart Number="30"/>
+          <Text>Commission such remuneration, allowances and
+expenses as the Secretary </Text>
+          <LineStart Number="31"/>
+          <Text>of
+State may determine. </Text>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="32"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Status</CrossHeadingTitle>
+        <LineStart Number="33"/>
+        <Para.sch Major_Number_Only="12" Quote="None" Draft="No">
+          <Number>12</Number>
+          <Text>The Commission
+is not to be regarded—</Text>
+          <LineStart Number="34"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>as the
+servant or agent of the Crown, or</Text>
+          </SubSubPara.sch>
+          <LineStart Number="35"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>as enjoying
+any status, privilege or immunity of the Crown.</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="36"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Sub-committees</CrossHeadingTitle>
+        <LineStart Number="37"/>
+        <Para.sch Major_Number_Only="13" Quote="None" Draft="No">
+          <Number>13</Number>
+          <Text>The Commission
+may establish sub-committees.</Text>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="38"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Validity
+of proceedings</CrossHeadingTitle>
+        <LineStart Number="39"/>
+        <Para.sch Major_Number_Only="14" Quote="None" Draft="No">
+          <Number>14</Number>
+          <Text>The Commission
+may regulate—</Text>
+          <PageStart Number="20"/>
+          <LineStart Number="1"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>its own procedure (including
+quorum), and</Text>
+          </SubSubPara.sch>
+          <LineStart Number="2"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>the procedure
+of any sub-committee (including quorum).</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+        <LineStart Number="3"/>
+        <Para.sch Major_Number_Only="15" Quote="None" Draft="No">
+          <Number>15</Number>
+          <Text>The validity
+of anything done by the Commission or any sub-committee is </Text>
+          <LineStart Number="4"/>
+          <Text>not affected by—</Text>
+          <LineStart Number="5"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>any vacancy
+in the membership of the Commission or sub-</Text>
+            <LineStart Number="6"/>
+            <Text>committee,
+or</Text>
+          </SubSubPara.sch>
+          <LineStart Number="7"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>any defect
+in the appointment of any member of the Commission or </Text>
+            <LineStart Number="8"/>
+            <Text>sub-committee.</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="9"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Discharge
+of functions</CrossHeadingTitle>
+        <LineStart Number="10"/>
+        <Para.sch Major_Number_Only="16" Quote="None" Draft="No">
+          <Number>16</Number>
+          <Text>The Commission
+may authorise a sub-committee or member to exercise any </Text>
+          <LineStart Number="11"/>
+          <Text>of the Commission’s functions.</Text>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="12"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Provision
+of advice by Commission</CrossHeadingTitle>
+        <LineStart Number="13"/>
+        <Para.sch Id="mf.s1003j-1082041" Major_Number_Only="17" Quote="None" Draft="No">
+          <Number>17  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>17  1</Number>
+            <Text>The
+Commission must comply with any request made by the Secretary of </Text>
+            <LineStart Number="14"/>
+            <Text>State under section </Text>
+            <Jref Jref="j3002">9</Jref>
+            <Text> or by the Scottish Ministers
+or the relevant Northern </Text>
+            <LineStart Number="15"/>
+            <Text>Ireland
+department under section </Text>
+            <Jref Jref="j3002a">12</Jref>
+            <Text>.</Text>
+          </SubPara.sch>
+          <LineStart Number="16"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>Advice given
+by the Commission under either of those sections must contain </Text>
+            <LineStart Number="17"/>
+            <Text>the reasons for the advice.</Text>
+          </SubPara.sch>
+          <LineStart Number="18"/>
+          <SubPara.sch Minor_Number_Only="3" Draft="No" Quote="None">
+            <Number>3</Number>
+            <Text>As soon
+as reasonably practicable after giving advice under either of those </Text>
+            <LineStart Number="19"/>
+            <Text>sections, the Commission must publish the advice
+in such manner as it </Text>
+            <LineStart Number="20"/>
+            <Text>thinks
+fit.</Text>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="21"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Public
+records</CrossHeadingTitle>
+        <LineStart Number="22"/>
+        <Para.sch Major_Number_Only="18" Quote="None" Draft="No">
+          <Number>18</Number>
+          <Text>In Schedule
+1 to the Public Records Act 1958 (definition of public records)
+in </Text>
+          <LineStart Number="23"/>
+          <Text>Part 2 of the Table at the
+end of paragraph 3 at the appropriate place insert—</Text>
+          <LineStart Number="24"/>
+          <Amendment>
+            <ListSch>
+              <ListSchItem>
+                <Text>“The
+Child Poverty Commission.”</Text>
+              </ListSchItem>
+            </ListSch>
+          </Amendment>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="25"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Parliamentary
+Commissioner</CrossHeadingTitle>
+        <LineStart Number="26"/>
+        <Para.sch Major_Number_Only="19" Quote="None" Draft="No">
+          <Number>19</Number>
+          <Text>In Schedule
+2 to the Parliamentary Commissioner Act 1967 (departments etc </Text>
+          <LineStart Number="27"/>
+          <Text>subject to investigation) at the appropriate
+place insert—</Text>
+          <LineStart Number="28"/>
+          <Amendment>
+            <ListSch>
+              <ListSchItem>
+                <Text>“The
+Child Poverty Commission.”</Text>
+              </ListSchItem>
+            </ListSch>
+          </Amendment>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="29"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Disqualification</CrossHeadingTitle>
+        <LineStart Number="30"/>
+        <Para.sch Major_Number_Only="20" Quote="None" Draft="No">
+          <Number>20  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>20  1</Number>
+            <Text>In Part
+2 of Schedule 1 to the House of Commons Disqualification Act 1975 </Text>
+            <LineStart Number="31"/>
+            <Text>(bodies of which all members are disqualified)
+at the appropriate place </Text>
+            <LineStart Number="32"/>
+            <Text>insert—</Text>
+            <LineStart Number="33"/>
+            <Amendment>
+              <ListSch>
+                <ListSchItem>
+                  <Text>“The
+Child Poverty Commission.”</Text>
+                </ListSchItem>
+              </ListSch>
+            </Amendment>
+          </SubPara.sch>
+          <LineStart Number="34"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>In Part
+2 of Schedule 1 to the Northern Ireland Assembly Disqualification </Text>
+            <LineStart Number="35"/>
+            <Text>Act 1975 (bodies of which all members are disqualified)
+at the appropriate </Text>
+            <LineStart Number="36"/>
+            <Text>place insert—</Text>
+            <LineStart Number="37"/>
+            <Amendment>
+              <ListSch>
+                <ListSchItem>
+                  <Text>“The
+Child Poverty Commission.”</Text>
+                </ListSchItem>
+              </ListSch>
+            </Amendment>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="38"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Freedom
+of information</CrossHeadingTitle>
+        <LineStart Number="39"/>
+        <Para.sch Major_Number_Only="21" Quote="None" Draft="No">
+          <Number>21</Number>
+          <Text>In Part 6
+of Schedule 1 to the Freedom of Information Act 2000 (other public </Text>
+          <PageStart Number="21"/>
+          <LineStart Number="1"/>
+          <Text>bodies and offices: general)
+at the appropriate place insert—</Text>
+          <LineStart Number="2"/>
+          <Amendment>
+            <ListSch>
+              <ListSchItem>
+                <Text>“The
+Child Poverty Commission.”</Text>
+              </ListSchItem>
+            </ListSch>
+          </Amendment>
+        </Para.sch>
+      </CrossHeadingSch>
+    </Schedule>
+    <Schedule HardReference="j110s" Quote="None" Draft="No">
+      <LineStart Number="3"/>
+      <ScheduleNumber Draft="No">Schedule 2</ScheduleNumber>
+      <LineStart Number="4"/>
+      <SectionReference>Section 16</SectionReference>
+      <LineStart Number="5"/>
+      <ScheduleTitle>Continuing effect of targets
+after target year</ScheduleTitle>
+      <LineStart Number="6"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Interpretation
+of Schedule</CrossHeadingTitle>
+        <LineStart Number="7"/>
+        <Para.sch Major_Number_Only="1" Quote="None" Draft="No">
+          <Number>1</Number>
+          <Jref Jref="j110">In this Schedule—</Jref>
+          <LineStart Number="8"/>
+          <Definition Draft="No">
+            <Text>“renewed target year” means—</Text>
+            <LineStart Number="9"/>
+            <DefinitionList Draft="No" Quote="None">
+              <DefinitionListItem Quote="None" Draft="No">
+                <Text>a
+financial year in relation to which the Secretary of State is </Text>
+                <LineStart Number="10"/>
+                <Text>required by paragraph </Text>
+                <Xref Idref="mf.s011j-1114299">2</Xref>
+                <Text> to
+ensure that the targets are met, or</Text>
+              </DefinitionListItem>
+              <LineStart Number="11"/>
+              <DefinitionListItem Quote="None" Draft="No">
+                <Text>a financial year
+specified under paragraph </Text>
+                <Xref Idref="mf.s011j-1115784">3(a)</Xref>
+                <Text>;</Text>
+              </DefinitionListItem>
+            </DefinitionList>
+          </Definition>
+          <LineStart Number="12"/>
+          <Definition Draft="No">
+            <Text>“the targets” means the
+targets in sections </Text>
+            <Jref Jref="j002">2</Jref>
+            <Text>, </Text>
+            <Jref Jref="j003">3</Jref>
+            <Text> and </Text>
+            <Jref Jref="j005">5</Jref>
+            <Text> and, subject to </Text>
+            <LineStart Number="13"/>
+            <Text>paragraph </Text>
+            <Xref Idref="mf.s011j-1113191">9</Xref>
+            <Text>,
+the target in section </Text>
+            <Jref Jref="j004">4</Jref>
+            <Text>;</Text>
+          </Definition>
+          <LineStart Number="14"/>
+          <Definition Draft="No">
+            <Text>“target statement”—</Text>
+            <LineStart Number="15"/>
+            <DefinitionList Draft="No" Quote="None">
+              <DefinitionListItem Quote="None" Draft="No">
+                <Text>in
+relation to the target year, means the report required by </Text>
+                <LineStart Number="16"/>
+                <Text>section </Text>
+                <Jref Jref="j105">13</Jref>
+                <Text>(3), and</Text>
+              </DefinitionListItem>
+              <LineStart Number="17"/>
+              <DefinitionListItem Quote="None" Draft="No">
+                <Text>in relation to
+a renewed target year, means the statement </Text>
+                <LineStart Number="18"/>
+                <Text>required
+by paragraph </Text>
+                <Xref Idref="mf.s011j-1120457">8</Xref>
+                <Text>.</Text>
+              </DefinitionListItem>
+            </DefinitionList>
+          </Definition>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="19"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Duty
+to maintain targets</CrossHeadingTitle>
+        <LineStart Number="20"/>
+        <Para.sch Id="mf.s011j-1114299" Major_Number_Only="2" Quote="None" Draft="No">
+          <Number>2</Number>
+          <Text>If
+the target statement relating to the target year or a renewed target
+year </Text>
+          <LineStart Number="21"/>
+          <Text>indicates that the targets
+have been met in relation to that financial year, the </Text>
+          <LineStart Number="22"/>
+          <Text>Secretary of State must ensure that they are
+also met in relation to the </Text>
+          <LineStart Number="23"/>
+          <Text>financial
+year following that in which that target statement is laid before </Text>
+          <LineStart Number="24"/>
+          <Text>Parliament.</Text>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="25"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Duty
+to make regulations requiring targets to be met in specified financial
+year</CrossHeadingTitle>
+        <LineStart Number="26"/>
+        <Para.sch Id="mf.s011j-1115751" Major_Number_Only="3" Quote="None" Draft="No">
+          <Number>3</Number>
+          <Text>If
+the target statement relating to the target year or a renewed target
+year </Text>
+          <LineStart Number="27"/>
+          <Text>indicates that any of
+the targets has not been met in relation to that financial </Text>
+          <LineStart Number="28"/>
+          <Text>year, the Secretary of State must make regulations
+under this paragraph—</Text>
+          <LineStart Number="29"/>
+          <SubSubPara.sch Id="mf.s011j-1115784" Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>requiring
+the Secretary of State to ensure that the targets are met in </Text>
+            <LineStart Number="30"/>
+            <Text>relation to a later financial year specified
+in the regulations,</Text>
+          </SubSubPara.sch>
+          <LineStart Number="31"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>requiring
+the Secretary of State, the Scottish Ministers and the </Text>
+            <LineStart Number="32"/>
+            <Text>relevant Northern Ireland department to publish
+strategies,</Text>
+          </SubSubPara.sch>
+          <LineStart Number="33"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>c</Number>
+            <Text>requiring
+consultation by the Secretary of State, in relation to any </Text>
+            <LineStart Number="34"/>
+            <Text>strategy prepared by the Secretary of State,
+with the persons </Text>
+            <LineStart Number="35"/>
+            <Text>mentioned
+in section </Text>
+            <Jref Jref="j3002">9</Jref>
+            <Text>(4)(a) to (c) and consultation
+by the Scottish </Text>
+            <LineStart Number="36"/>
+            <Text>Ministers and
+the relevant Northern Ireland department, in relation </Text>
+            <LineStart Number="37"/>
+            <Text>to strategies prepared by them, with the persons
+whom they are </Text>
+            <LineStart Number="38"/>
+            <Text>required to consult
+under section </Text>
+            <Jref Jref="j3002a">12</Jref>
+            <Text>(3)(a) to (c), and</Text>
+          </SubSubPara.sch>
+          <LineStart Number="39"/>
+          <SubSubPara.sch Id="mf.s011j-1115817" Quote="None" Draft="No">
+            <Number>d</Number>
+            <Text>requiring
+the Secretary of State to publish annual reports on the </Text>
+            <LineStart Number="40"/>
+            <Text>implementation of any strategy prepared by the
+Secretary of State.</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+        <LineStart Number="41"/>
+        <Para.sch Id="mf.s011j-1115741" Major_Number_Only="4" Quote="None" Draft="No">
+          <Number>4</Number>
+          <Text>Regulations
+under paragraph </Text>
+          <Xref Idref="mf.s011j-1115751">3</Xref>
+          <Text> must
+be made as soon as reasonably </Text>
+          <LineStart Number="42"/>
+          <Text>practicable
+after the time when the target statement referred to in that </Text>
+          <LineStart Number="43"/>
+          <Text>paragraph is laid before Parliament.</Text>
+        </Para.sch>
+        <PageStart Number="22"/>
+        <LineStart Number="1"/>
+        <Para.sch Major_Number_Only="5" Quote="None" Draft="No">
+          <Number>5</Number>
+          <Text>Regulations
+under paragraph </Text>
+          <Xref Idref="mf.s011j-1115751">3</Xref>
+          <Text> may
+confer or impose functions on the </Text>
+          <LineStart Number="2"/>
+          <Text>Commission.</Text>
+        </Para.sch>
+        <LineStart Number="3"/>
+        <Para.sch Major_Number_Only="6" Quote="None" Draft="No">
+          <Number>6</Number>
+          <Text>The
+provision that may be made by regulations under paragraph </Text>
+          <Xref Idref="mf.s011j-1115751">3</Xref>
+          <Text> includes </Text>
+          <LineStart Number="4"/>
+          <Text>provision corresponding to that made (in relation
+to financial years not later </Text>
+          <LineStart Number="5"/>
+          <Text>than
+the target year) by any of the following—</Text>
+          <LineStart Number="6"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>a</Number>
+            <Text>sections </Text>
+            <Jref Jref="j101">8</Jref>
+            <Text> and </Text>
+            <Jref Jref="j3002">9</Jref>
+            <Text> (UK strategies);</Text>
+          </SubSubPara.sch>
+          <LineStart Number="7"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>b</Number>
+            <Text>sections </Text>
+            <Jref Jref="j101a">10</Jref>
+            <Text>, </Text>
+            <Jref Jref="j101b">11</Jref>
+            <Text> and </Text>
+            <Jref Jref="j3002a">12</Jref>
+            <Text> (Scottish and Northern Ireland
+strategies);</Text>
+          </SubSubPara.sch>
+          <LineStart Number="8"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>c</Number>
+            <Text>section </Text>
+            <Jref Jref="j105">13</Jref>
+            <Text> (reports);</Text>
+          </SubSubPara.sch>
+          <LineStart Number="9"/>
+          <SubSubPara.sch Quote="None" Draft="No">
+            <Number>d</Number>
+            <Text>paragraph
+17 of Schedule </Text>
+            <Jref Jref="j3001s">1</Jref>
+            <Text> (provision of advice by Commission).</Text>
+          </SubSubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="10"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Economic
+and fiscal circumstances</CrossHeadingTitle>
+        <LineStart Number="11"/>
+        <Para.sch Major_Number_Only="7" Quote="None" Draft="No">
+          <Number>7  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>7  1</Number>
+            <Text>The matters
+mentioned in section </Text>
+            <Jref Jref="j108">15</Jref>
+            <Text>(2) must be taken into account—</Text>
+            <LineStart Number="12"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>by the
+Secretary of State in preparing a strategy under regulations </Text>
+              <LineStart Number="13"/>
+              <Text>under paragraph </Text>
+              <Xref Idref="mf.s011j-1115751">3</Xref>
+              <Text>;</Text>
+            </SubSubPara.sch>
+            <LineStart Number="14"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>by the
+Commission in considering any advice to be given under any </Text>
+              <LineStart Number="15"/>
+              <Text>such regulations.</Text>
+            </SubSubPara.sch>
+          </SubPara.sch>
+          <LineStart Number="16"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>In preparing
+a strategy under regulations under paragraph </Text>
+            <Xref Idref="mf.s011j-1115751">3</Xref>
+            <Text>,
+the Scottish </Text>
+            <LineStart Number="17"/>
+            <Text>Ministers or the
+relevant Northern Ireland department must have regard to </Text>
+            <LineStart Number="18"/>
+            <Text>the matters mentioned in section </Text>
+            <Jref Jref="j108">15</Jref>
+            <Text>(3)(a) and (b).</Text>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="19"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Statement
+as to whether targets are met in relation to renewed target year</CrossHeadingTitle>
+        <LineStart Number="20"/>
+        <Para.sch Id="mf.s011j-1120457" Major_Number_Only="8" Quote="None" Draft="No">
+          <Number>8  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>8  1</Number>
+            <Text>The Secretary
+of State must, as soon as reasonably practicable after the end </Text>
+            <LineStart Number="21"/>
+            <Text>of each renewed target year, lay before Parliament
+a statement of—</Text>
+            <LineStart Number="22"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>the percentage
+of children living in qualifying households in the </Text>
+              <LineStart Number="23"/>
+              <Text>United Kingdom in the renewed target year who
+were living in </Text>
+              <LineStart Number="24"/>
+              <Text>households that
+fell within the relevant income group for the </Text>
+              <LineStart Number="25"/>
+              <Text>purposes of section </Text>
+              <Jref Jref="j002">2</Jref>
+              <Text> (the relative low income target);</Text>
+            </SubSubPara.sch>
+            <LineStart Number="26"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>the percentage
+of children living in qualifying households in the </Text>
+              <LineStart Number="27"/>
+              <Text>United Kingdom in the renewed target year who
+were for the </Text>
+              <LineStart Number="28"/>
+              <Text>purposes of section </Text>
+              <Jref Jref="j003">3</Jref>
+              <Text> (the combined low income and
+material </Text>
+              <LineStart Number="29"/>
+              <Text>deprivation target)
+living in households that fell within the relevant </Text>
+              <LineStart Number="30"/>
+              <Text>income group and experiencing material deprivation;</Text>
+            </SubSubPara.sch>
+            <LineStart Number="31"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>c</Number>
+              <Text>if the
+absolute low income target in section </Text>
+              <Jref Jref="j004">4</Jref>
+              <Text> applies in relation to the </Text>
+              <LineStart Number="32"/>
+              <Text>renewed target year, the percentage of children
+living in qualifying </Text>
+              <LineStart Number="33"/>
+              <Text>households
+in the United Kingdom in the renewed target year who </Text>
+              <LineStart Number="34"/>
+              <Text>were living in households that fell within the
+relevant income group </Text>
+              <LineStart Number="35"/>
+              <Text>for the
+purposes of that section;</Text>
+            </SubSubPara.sch>
+            <LineStart Number="36"/>
+            <SubSubPara.sch Id="mf.s011j-1112570" Quote="None" Draft="No">
+              <Number>d</Number>
+              <Text>the percentage
+of children who have lived in qualifying households </Text>
+              <LineStart Number="37"/>
+              <Text>during the survey years (as defined by section </Text>
+              <Jref Jref="j005">5</Jref>
+              <Text>(2)) which relate to </Text>
+              <LineStart Number="38"/>
+              <Text>the renewed target year who have lived in households
+that fell </Text>
+              <LineStart Number="39"/>
+              <Text>within the relevant
+income group for the purposes of section </Text>
+              <Jref Jref="j005">5</Jref>
+              <Text> (the </Text>
+              <LineStart Number="40"/>
+              <Text>persistent
+poverty target) in at least 3 of the survey years.</Text>
+            </SubSubPara.sch>
+          </SubPara.sch>
+          <LineStart Number="41"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>The statement
+must be based on statistics that the Statistics Board has </Text>
+            <LineStart Number="42"/>
+            <Text>designated under section 12 of the Statistics
+and Registration Service Act </Text>
+            <LineStart Number="43"/>
+            <Text>2007
+(assessment) as National Statistics.</Text>
+          </SubPara.sch>
+          <LineStart Number="44"/>
+          <SubPara.sch Minor_Number_Only="3" Draft="No" Quote="None">
+            <Number>3</Number>
+            <Text>Whether
+the targets have been met in relation to a renewed target year is
+to </Text>
+            <LineStart Number="45"/>
+            <Text>be determined by reference
+to the percentages given in the statement.</Text>
+          </SubPara.sch>
+          <PageStart Number="23"/>
+          <LineStart Number="1"/>
+          <SubPara.sch Minor_Number_Only="4" Draft="No" Quote="None">
+            <Number>4</Number>
+            <Text>If any of
+the targets has not been met, the statement must explain why it
+has </Text>
+            <LineStart Number="2"/>
+            <Text>not been met.</Text>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+      <LineStart Number="3"/>
+      <CrossHeadingSch Quote="None" Draft="No">
+        <CrossHeadingTitle>Power
+to exclude or modify absolute low income target</CrossHeadingTitle>
+        <LineStart Number="4"/>
+        <Para.sch Id="mf.s011j-1113191" Major_Number_Only="9" Quote="None" Draft="No">
+          <Number>9  1</Number>
+          <SubPara.sch Minor_Number_Only="1" Draft="No" Quote="None">
+            <Number>9  1</Number>
+            <Text>Regulations
+may—</Text>
+            <LineStart Number="5"/>
+            <SubSubPara.sch Quote="None" Draft="No">
+              <Number>a</Number>
+              <Text>amend
+the percentage specified in subsection (1) of section </Text>
+              <Jref Jref="j004">4</Jref>
+              <Text> (the </Text>
+              <LineStart Number="6"/>
+              <Text>absolute
+low income target) or the base year specified in subsection </Text>
+              <LineStart Number="7"/>
+              <Text>(4) of that section in their application in relation
+to any financial year </Text>
+              <LineStart Number="8"/>
+              <Text>later
+than the target year, or</Text>
+            </SubSubPara.sch>
+            <LineStart Number="9"/>
+            <SubSubPara.sch Id="mf.s011j-1124917" Quote="None" Draft="No">
+              <Number>b</Number>
+              <Text>repeal
+section </Text>
+              <Jref Jref="j004">4</Jref>
+              <Text>, and the reference to that section
+in section </Text>
+              <Jref Jref="j203">24</Jref>
+              <Text>(3)(a).</Text>
+            </SubSubPara.sch>
+          </SubPara.sch>
+          <LineStart Number="10"/>
+          <SubPara.sch Minor_Number_Only="2" Draft="No" Quote="None">
+            <Number>2</Number>
+            <Text>Regulations
+made by virtue of sub-paragraph </Text>
+            <Xref Idref="mf.s011j-1124917">(1)(b)</Xref>
+            <Text> do
+not affect the </Text>
+            <LineStart Number="11"/>
+            <Text>application
+of section </Text>
+            <Jref Jref="j004">4</Jref>
+            <Text> in relation to the target year
+or any other financial </Text>
+            <LineStart Number="12"/>
+            <Text>year
+before the regulations are made.</Text>
+          </SubPara.sch>
+        </Para.sch>
+      </CrossHeadingSch>
+    </Schedule>
+  </Schedules>
+  <Back>
+    <?Fm Document Endorsement.fm?>
+    <Endorse>
+      <PageStart Number="i"/>
+      <LineStart/>
+      <Enda>
+        <Text>A</Text>
+      </Enda>
+      <LineStart/>
+      <Endb>
+        <Text>Bill</Text>
+      </Endb>
+      <LineStart/>
+      <AsAm>
+        <Text>[AS AMENDED IN GRAND COMMITTEE]</Text>
+      </AsAm>
+      <LineStart/>
+      <LongTitle>
+        <Bpara>To <Letter>S</Letter>et targets relating
+to the eradication of child poverty, and to make other <LineStart/>provision
+about child poverty.<Enact><Text/></Enact>
+</Bpara>
+      </LongTitle>
+      <Endtable>
+        <Endgroup>
+          <Endspon>
+            <Endcell><LineStart/>Brought from the Commons on 10th December 2009</Endcell>
+          </Endspon>
+          <Endpo>
+            <Endcell>
+              <Italic>Ordered to be Printed, 8th February 2010</Italic>
+            </Endcell>
+          </Endpo>
+        </Endgroup>
+      </Endtable>
+    </Endorse>
+  </Back>
+</Bill>
