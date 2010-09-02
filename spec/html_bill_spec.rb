@@ -9,7 +9,7 @@ describe "HtmlBill" do
     @app ||= Sinatra::Application
   end
 
-  describe 'when parsing the DE Bill' do
+  describe '(DE Bill),' do
     before do
       @bill = HtmlBill.new(File.read("./data/digital_economy.xml"))
     end
@@ -60,7 +60,9 @@ describe "HtmlBill" do
         @cover.should_not =~ /<\/h2><br \/><p>/
       end
     
-      it 'should not create <DIV> tags for empty Rubric elements'
+      it 'should not create <DIV> tags for empty Rubric elements' do
+        @cover.should_not =~ /<div class="Rubric">/
+      end
     end
 
     describe 'when parsing Arrangement HTML' do
