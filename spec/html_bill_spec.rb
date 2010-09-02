@@ -119,6 +119,23 @@ describe "HtmlBill" do
       it 'should create a <tr> for each Schedule.arrangement' do
         @arrangement.should =~ /<tr.*<\/tr>/
       end
+      
+      it 'should create a <td> for each ScheduleNumber' do
+        @arrangement.should =~ /<td>Schedule 1 —<\/td>/
+        @arrangement.should =~ /<td>Schedule 2 —<\/td>/
+        @arrangement.should =~ /<td>Schedule 3 —<\/td>/
+      end
+      
+      it 'should create a <td> for each ScheduleTitle.arrangement/Text' do
+        @arrangement.should =~ /<td>Classification of video games etc: supplementary provision<\/td>/
+        @arrangement.should =~ /<td>Licensing of copyright and performers’ property rights<\/td>/
+        @arrangement.should =~ /<td>Repeals<\/td>/
+      end
+      
+      it 'should create a <tr> for each Part.arrangement within a Schedule.arrangement' do
+        @arrangement.should =~ /<tr><td>Part 1 —<\/td> <td>Regulation of licensing bodies<\/td><\/tr>/
+        @arrangement.should =~ /<tr><td>Part 2 —<\/td> <td>Performers’ property rights<\/td><\/tr>/
+      end
     end
   end
 end

@@ -135,18 +135,39 @@ class HtmlBill
               end
             when "Schedule.arrangement"
               content = handle_schedules_arrangement(element)
-              if content.length > 0
-                hardref = element.attributes["HardReference"]
-                if hardref.length > 0
-                  output << %Q|<tr data-hardreference="#{hardref}">#{content}</tr>|
-                else
-                  output << "<tr>" + content + "</tr>"
-                end
+              parts = handle_schedule_parts_arrangement(element)
+              
+              hardref = element.attributes["HardReference"]
+              if hardref.length > 0
+                output << %Q|<tr data-hardreference="#{hardref}">#{content}</tr>|
+              else
+                output << "<tr>#{content}</tr>"
               end
+              output << parts
             when "ScheduleNumber.arrangement"
               output << "<td>" + element.inner_text.strip + "</td>"
-            when "Text"
+            when "ScheduleTitle.arrangement"
+              content = (element/'Text').inner_text
+              output << "<td>" + strip_linebreaks(content).strip + "</td>"
+          end
+        end
+      end
+      output.join(" ").squeeze(" ")
+    end
+    
+    def handle_schedule_parts_arrangement xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "Part.arrangement"
+              content = handle_schedule_parts_arrangement(element)
+              output << "<tr>#{content}</tr>"
+            when "PartNumber.arrangement"
               output << "<td>" + element.inner_text.strip + "</td>"
+            when "PartTitle.arrangement"
+              content = (element/'Text').inner_text
+              output << "<td>" + strip_linebreaks(content).strip + "</td>"
           end
         end
       end
