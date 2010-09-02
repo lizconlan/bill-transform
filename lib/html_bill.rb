@@ -119,19 +119,6 @@ class HtmlBill
       output.join(" ").squeeze(" ")
     end
     
-    def handle_arr_crossheading xml
-      output = []
-      if xml.children
-        xml.children.each do |element|
-          case element.name
-            when "CrossHeadingTitle.arrangement"
-              output << "<caption>" + strip_linebreaks(element.inner_text).strip + "</caption>"
-          end
-        end
-      end
-      output.join(" ").squeeze(" ")
-    end
-    
     def strip_linebreaks text
       text.gsub("\r", " ").gsub("\n", " ")
     end
