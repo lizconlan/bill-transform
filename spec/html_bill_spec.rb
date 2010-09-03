@@ -139,5 +139,45 @@ describe "HtmlBill" do
         @arrangement.should =~ /<tr><td>Part 2 —<\/td> <td>Performers’ property rights<\/td><\/tr>/
       end
     end
+
+    describe 'when parsing Clauses HTML' do
+      before do
+        @clauses = @bill.clauses()
+      end
+      
+      it 'should create a <DIV> with class of pageHead for each PageStart element' do
+        @clauses.should =~ /<div class="pageHead" data-number="1"><\/div>/
+        @clauses.should =~ /<div class="pageHead" data-number="2"><\/div>/
+        @clauses.should =~ /<div class="pageHead" data-number="51"><\/div>/
+      end
+      
+      it 'should create a <DIV> with a class of prelim for the Prelim element' do
+        @clauses.should =~ /<div class="prelim">/
+      end
+      
+      it 'should create a <DIV> with a class of ABillTo for the ABillTo element' do
+        @clauses.should =~ /<div class="ABillTo">/
+      end
+      
+      it 'should create a <SPAN> with a class of Abt1 for the Abt1 element' do
+        @clauses.should =~ /<span class="Abt1">A<\/span>/
+      end
+      
+      it 'should create a <SPAN> with a class of Abt2 for the Abt2 element' do
+        @clauses.should =~ /<span class="Abt2">Bill<\/span>/
+      end
+      
+      it 'should create a <SPAN> with a class of Abt3 for the Abt3 element' do
+        @clauses.should =~ /<span class="Abt3"><\/span>/
+      end
+      
+      it 'should create a <SPAN> with a class of Abt4 for the Abt4 element' do
+        @clauses.should =~ /<span class="Abt4">To<\/span>/
+      end
+      
+      it 'should create a <DIV> with a class of LongTitle for the LongTitle element' do
+        @clauses.should =~ /<div class="LongTitle">/
+      end
+    end
   end
 end

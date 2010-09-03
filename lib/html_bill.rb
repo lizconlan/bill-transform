@@ -70,10 +70,48 @@ class HtmlBill
           when "Schedules.arrangement"
             content = handle_schedules_arrangement(element)
             @output << %Q|<section class="arrangement_schedules"><table>#{content}</table></section>|
+          when "Prelim"
+            content = handle_prelim(element)
+            @output << %Q|<div class="prelim">#{content}</div>|
         end
       end
       
       @output.join("")
+    end
+    
+    def handle_prelim xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "ABillTo"
+              content = handle_prelim(element)
+              output << %Q|<div class="ABillTo">#{content}</div>|
+            when "Abt1"
+              content = handle_prelim(element)
+              output << %Q|<span class="Abt1">#{content}</span>|
+            when "Abt2"
+              content = handle_prelim(element)
+              output << %Q|<span class="Abt2">#{content}</span>|
+            when "Abt3"
+              content = handle_prelim(element)
+              output << %Q|<span class="Abt3">#{content}</span>|
+            when "Abt4"
+              content = handle_prelim(element)
+              output << %Q|<span class="Abt4">#{content}</span>|
+            when "LongTitle"
+              content = handle_prelim(element)
+              output << %Q|<div class="LongTitle">#{content}</div>|
+            when "Bpara"
+              output << handle_para(element)
+            when "Text"
+              output << strip_linebreaks(element.inner_text)
+            when "LineStart"
+              output << "<br />"
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
     end
     
     def handle_para xml
