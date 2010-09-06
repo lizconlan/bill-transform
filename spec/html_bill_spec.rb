@@ -178,6 +178,48 @@ describe "HtmlBill" do
       it 'should create a <DIV> with a class of LongTitle for the LongTitle element' do
         @clauses.should =~ /<div class="LongTitle">/
       end
+      
+      it 'should create a <DIV> with a class of WordsOfEnactment for the WordsOfEnactment element' do
+        @clauses.should =~ /<div class="WordsOfEnactment">/
+      end
+      
+      it 'should create a <DIV> with a class of crossheading for each CrossHeading element' do
+        @clauses.should =~ /<div class="crossheading">/
+      end
+      
+      it 'should create an <H2> tag for each CrossHeadingTitle element' do
+        @clauses.should =~ /<h2>General duties of OFCOM<\/h2>/
+        @clauses.should =~ /<h2>Online infringement of copyright<\/h2>/
+        @clauses.should =~ /<h2>Powers in relation to internet domain registries<\/h2>/
+        @clauses.should =~ /<h2>Channel Four Television Corporation<\/h2>/
+        @clauses.should =~ /<h2>Independent television services<\/h2>/
+        @clauses.should =~ /<h2>Independent radio services<\/h2>/
+        @clauses.should =~ /<h2>Regulation of television and radio services<\/h2>/
+        @clauses.should =~ /<h2>Access to electromagnetic spectrum<\/h2>/
+        @clauses.should =~ /<h2>Video recordings<\/h2>/
+        @clauses.should =~ /<h2>Copyright and performers’ property rights: licensing and penalties<\/h2>/
+        @clauses.should =~ /<h2>Public lending right<\/h2>/
+        @clauses.should =~ /<h2>General<\/h2>/
+      end
+      
+      it 'should create named anchors for each numbered PageStart' do
+        @clauses.should =~/<a name="page-1-line-1"><\/a>/
+      end
+      
+      it 'should create a <DIV> tag for each Clause element' do
+        @clauses.should =~ /<div class="clause"/
+      end
+      
+      it 'should include the HardReference attribute and the number in Clause <DIV>s' do
+        @clauses.should =~ /<div class="clause" data-number="1" data-hardreference="j712">/
+      end
+      
+      it 'should create an <H2> for each ClauseTitle, incorporating the clause number as a <span>' do
+        @clauses.should =~ /<h2><span class="clause_number">1<\/span> General duties of OFCOM<\/h2>/
+        @clauses.should =~ /<h2><span class="clause_number">2<\/span> OFCOM reports on infrastructure, internet domain names etc<\/h2>/
+        @clauses.should =~ /<h2><span class="clause_number">3<\/span> OFCOM reports on media content<\/h2>/
+        @clauses.should =~ /<h2><span class="clause_number">4<\/span> Obligation to notify subscribers of reported infringements<\/h2>/
+      end
     end
   end
 end

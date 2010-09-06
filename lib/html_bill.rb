@@ -9,6 +9,8 @@ class HtmlBill
     @short_title = (@doc/'Bill').attr('ShortTitle')
     @session = (@doc/'Bill').attr('SessionNumber')
     @print_number = (@doc/'Bill').attr('PrintNumber')
+    @page_number = ""
+    @clause = ""
   end
   
   def cover
@@ -64,6 +66,7 @@ class HtmlBill
           when "PageStart"
             pagenum = element.attributes["Number"]
             @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
+            @page_number = pagenum
           when "Clauses.arrangement"
             content = handle_clauses_arrangement(element)
             @output << %Q|<section class="arrangement_clauses">#{content}</section>|
@@ -73,10 +76,62 @@ class HtmlBill
           when "Prelim"
             content = handle_prelim(element)
             @output << %Q|<div class="prelim">#{content}</div>|
+          when "CrossHeading"
+            content = handle_crossheading(element)
+            @output << %Q|<div class="crossheading">#{content}</div>|
+          when "Clause"
+            @output << handle_clause(element)
         end
       end
       
       @output.join("")
+    end
+    
+    def handle_crossheading xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "CrossHeadingTitle"
+              output << %Q|<h2>#{strip_linebreaks(element.inner_text).strip}</h2>|
+            when "LineStart"
+              output << handle_linebreak(element, @page_number, false)
+            when "Clause"
+              output << handle_clause(element)
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_clause xml
+      output = []
+      @clause = (xml/'Number').first.inner_text
+      content = handle_clause_content(xml)
+      hardref = xml.attributes["HardReference"]
+      if hardref.length > 0
+        output << %Q|<div class="clause" data-number="#{@clause}" data-hardreference="#{hardref}">#{content}</div>|
+      else
+        output << %Q|<div class="clause" data-number="#{@clause}">#{content}</div>|
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_clause_content xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "ClauseTitle"
+              output << %Q|<h2><span class="clause_number">#{@clause}</span> #{strip_linebreaks(element.inner_text).strip}</h2>|
+            when "Text"
+              output << strip_linebreaks(element.inner_text)
+            when "LineStart"
+              output << handle_linebreak(element, @page_number, false)
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
     end
     
     def handle_prelim xml
@@ -102,12 +157,15 @@ class HtmlBill
             when "LongTitle"
               content = handle_prelim(element)
               output << %Q|<div class="LongTitle">#{content}</div>|
+            when "WordsOfEnactment"
+              content = handle_prelim(element)
+              output << %Q|<div class="WordsOfEnactment">#{content}</div>|
             when "Bpara"
               output << handle_para(element)
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
-              output << "<br />"
+              output << handle_linebreak(element, @page_number)
           end
         end
       end
@@ -122,7 +180,7 @@ class HtmlBill
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
-              output << "<br />"
+              output << handle_linebreak(element, @page_number)
           end
         end
       end
@@ -208,6 +266,16 @@ class HtmlBill
               output << "<td>" + strip_linebreaks(content).strip + "</td>"
           end
         end
+      end
+      output.join(" ").squeeze(" ")
+    end
+    
+    def handle_linebreak xml, page_num, use_br=true
+      output = []
+      output << "<br />" if use_br
+      if xml.attributes["Number"]
+        line_num = xml.attributes["Number"]
+        output << %Q|<a name="page-#{page_num}-line-#{line_num}"></a>|
       end
       output.join(" ").squeeze(" ")
     end
