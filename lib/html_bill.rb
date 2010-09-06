@@ -124,10 +124,37 @@ class HtmlBill
           case element.name
             when "ClauseTitle"
               output << %Q|<h2><span class="clause_number">#{@clause}</span> #{strip_linebreaks(element.inner_text).strip}</h2>|
+            when "ClauseText"
+              content = handle_clause_content(element)
+              output << %Q|<div class="clause_text">#{content}</div>|
+            when "PageStart"
+              pagenum = element.attributes["Number"]
+              @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
+              @page_number = pagenum
+            when "SubSection"
+              content = handle_subsection(element)
+              output << %Q|<div class="subsection">#{content}</div>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
               output << handle_linebreak(element, @page_number, false)
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_subsection xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "Number"
+              output << %Q|<div class="subsection_number">#{element.inner_text}</div>|
+            when "Text"
+              output << strip_linebreaks(element.inner_text)
+            when "LineStart"
+              output << handle_linebreak(element, @page_number)
           end
         end
       end

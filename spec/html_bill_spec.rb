@@ -148,6 +148,7 @@ describe "HtmlBill" do
       it 'should create a <DIV> with class of pageHead for each PageStart element' do
         @clauses.should =~ /<div class="pageHead" data-number="1"><\/div>/
         @clauses.should =~ /<div class="pageHead" data-number="2"><\/div>/
+        @clauses.should =~ /<div class="pageHead" data-number="3"><\/div>/
         @clauses.should =~ /<div class="pageHead" data-number="51"><\/div>/
       end
       
@@ -219,6 +220,18 @@ describe "HtmlBill" do
         @clauses.should =~ /<h2><span class="clause_number">2<\/span> OFCOM reports on infrastructure, internet domain names etc<\/h2>/
         @clauses.should =~ /<h2><span class="clause_number">3<\/span> OFCOM reports on media content<\/h2>/
         @clauses.should =~ /<h2><span class="clause_number">4<\/span> Obligation to notify subscribers of reported infringements<\/h2>/
+      end
+      
+      it 'should create a <DIV> tag for ClauseText' do
+        @clauses.should =~ /<div class="clause_text">/
+      end
+      
+      it 'should create a <DIV> tag for each SubSection' do
+        @clauses.should =~ /<div class="subsection">/
+      end
+      
+      it 'should create a <DIV> tag for each SubSection number' do
+        @clauses.should =~ /<div class="subsection_number">1<\/div>/
       end
     end
   end
