@@ -247,6 +247,10 @@ describe "HtmlBill" do
         @clauses.should =~ /<div class="amendment" data-act="Public Lending Right Act 1979">/
         @clauses.should =~ /<div class="amendment" data-act="Copyright, Designs and Patents Act 1988">/
       end
+      
+      it 'should create a <DIV> tag for each Subsection within the Amendment' do
+        @clauses.should =~ /<div class="act_subsection">/
+      end
     end
   end
 end

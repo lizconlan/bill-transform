@@ -134,7 +134,7 @@ class HtmlBill
               @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
               @page_number = pagenum
             when "SubSection"
-              content = handle_subsection(element)
+              content = handle_subsection(element, element.attributes["Quote"])
               output << %Q|<div class="subsection" id="clause-#{@clause}-subsection-#{@subsection}">#{content}</div>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
@@ -146,14 +146,21 @@ class HtmlBill
       output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
     end
     
-    def handle_subsection xml
+    def handle_subsection xml, quote=""
+      case quote
+        when "Double"
+          html_quote = "&quot;"
+        else
+          html_quote = ""
+      end
+      
       output = []
       if xml.children
         xml.children.each do |element|
           case element.name
             when "Number"
               @subsection = element.inner_text
-              output << %Q|<div class="subsection_number">(#{element.inner_text})</div>|
+              output << %Q|<div class="subsection_number">#{html_quote}(#{element.inner_text})</div>|
             when "Text"
               text = strip_linebreaks(element.inner_text)
               act_name = act_name(text)
@@ -164,8 +171,31 @@ class HtmlBill
             when "LineStart"
               output << handle_linebreak(element, @page_number)
             when "Amendment"
-              content = ""
+              content = handle_amendment(element)
               output << %Q|<div class="amendment" data-act="#{@act_name}">#{content}</div>|
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_amendment xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "SubSection"
+              content = handle_subsection(element, element.attributes["Quote"])
+              output << %Q|<div class="act_subsection">#{content}</div>|
+            when "Text"
+              text = strip_linebreaks(element.inner_text)
+              act_name = act_name(text)
+              unless act_name == ""
+                @act_name = act_name
+              end
+              output << text
+            when "LineStart"
+              output << handle_linebreak(element, @page_number)
           end
         end
       end
