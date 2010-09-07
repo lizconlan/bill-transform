@@ -212,7 +212,7 @@ describe "HtmlBill" do
       end
       
       it 'should include the HardReference attribute and the number in Clause <DIV>s' do
-        @clauses.should =~ /<div class="clause" data-number="1" data-hardreference="j712">/
+        @clauses.should =~ /<div class="clause" data-number="1" data-hardreference="j712" id="clause-1">/
       end
       
       it 'should create an <H2> for each ClauseTitle, incorporating the clause number as a <span>' do
@@ -227,7 +227,7 @@ describe "HtmlBill" do
       end
       
       it 'should create a <DIV> tag for each SubSection' do
-        @clauses.should =~ /<div class="subsection">/
+        @clauses.should =~ /<div class="subsection" id="clause-1-subsection-1">/
       end
       
       it 'should create a <DIV> tag for each SubSection number' do

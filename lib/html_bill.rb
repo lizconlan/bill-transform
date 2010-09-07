@@ -11,6 +11,7 @@ class HtmlBill
     @print_number = (@doc/'Bill').attr('PrintNumber')
     @page_number = ""
     @clause = ""
+    @subsection = ""
     @act_name = ""
   end
   
@@ -111,9 +112,9 @@ class HtmlBill
       content = handle_clause_content(xml)
       hardref = xml.attributes["HardReference"]
       if hardref.length > 0
-        output << %Q|<div class="clause" data-number="#{@clause}" data-hardreference="#{hardref}">#{content}</div>|
+        output << %Q|<div class="clause" data-number="#{@clause}" data-hardreference="#{hardref}" id="clause-#{@clause}">#{content}</div>|
       else
-        output << %Q|<div class="clause" data-number="#{@clause}">#{content}</div>|
+        output << %Q|<div class="clause" data-number="#{@clause}" id="clause-#{@clause}">#{content}</div>|
       end
       output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
     end
@@ -134,7 +135,7 @@ class HtmlBill
               @page_number = pagenum
             when "SubSection"
               content = handle_subsection(element)
-              output << %Q|<div class="subsection">#{content}</div>|
+              output << %Q|<div class="subsection" id="clause-#{@clause}-subsection-#{@subsection}">#{content}</div>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
@@ -151,6 +152,7 @@ class HtmlBill
         xml.children.each do |element|
           case element.name
             when "Number"
+              @subsection = element.inner_text
               output << %Q|<div class="subsection_number">(#{element.inner_text})</div>|
             when "Text"
               text = strip_linebreaks(element.inner_text)
