@@ -251,6 +251,10 @@ describe "HtmlBill" do
       it 'should create a <DIV> tag for each Subsection within the Amendment' do
         @clauses.should =~ /<div class="act_subsection">/
       end
+      
+      it 'should create a <DIV> tag for each Para element' do
+        @clauses.should =~ /<div class="para">/
+      end
     end
   end
 end

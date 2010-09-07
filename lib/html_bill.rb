@@ -168,11 +168,34 @@ class HtmlBill
                 @act_name = act_name
               end
               output << text
+            when "Para"
+              output << %Q|<div class="para">#{handle_clause_para(element)}</div>|
             when "LineStart"
-              output << handle_linebreak(element, @page_number)
+              if output.last =~ /<\/div>/
+                output << handle_linebreak(element, @page_number, false)
+              else
+                output << handle_linebreak(element, @page_number)
+              end
             when "Amendment"
               content = handle_amendment(element)
               output << %Q|<div class="amendment" data-act="#{@act_name}">#{content}</div>|
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_clause_para xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "Number"
+              output << %Q|<div class="para_number">(#{element.inner_text})</div>|
+            when "Text"
+              output << strip_linebreaks(element.inner_text)
+            when "LineStart"
+              output << handle_linebreak(element, @page_number)
           end
         end
       end
