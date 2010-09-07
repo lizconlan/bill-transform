@@ -231,7 +231,7 @@ describe "HtmlBill" do
       end
       
       it 'should create a <DIV> tag for each SubSection number' do
-        @clauses.should =~ /<div class="subsection_number">1<\/div>/
+        @clauses.should =~ /<div class="subsection_number">(1)<\/div>/
       end
     end
   end

@@ -150,7 +150,7 @@ class HtmlBill
         xml.children.each do |element|
           case element.name
             when "Number"
-              output << %Q|<div class="subsection_number">#{element.inner_text}</div>|
+              output << %Q|<div class="subsection_number">(#{element.inner_text})</div>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
