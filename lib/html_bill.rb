@@ -11,6 +11,7 @@ class HtmlBill
     @print_number = (@doc/'Bill').attr('PrintNumber')
     @page_number = ""
     @clause = ""
+    @act_name = ""
   end
   
   def cover
@@ -152,9 +153,17 @@ class HtmlBill
             when "Number"
               output << %Q|<div class="subsection_number">(#{element.inner_text})</div>|
             when "Text"
-              output << strip_linebreaks(element.inner_text)
+              text = strip_linebreaks(element.inner_text)
+              act_name = act_name(text)
+              unless act_name == ""
+                @act_name = act_name
+              end
+              output << text
             when "LineStart"
               output << handle_linebreak(element, @page_number)
+            when "Amendment"
+              content = ""
+              output << %Q|<div class="amendment" data-act="#{@act_name}">#{content}</div>|
           end
         end
       end
@@ -309,5 +318,13 @@ class HtmlBill
     
     def strip_linebreaks text
       text.gsub("\r", " ").gsub("\n", " ")
+    end
+    
+    def act_name text
+      act_name = ""
+      if text =~ /((?:[A-Z][a-z]+,?\s){1,}(?:and )*(?:[A-Z][a-z]+\s)*Act \d{4})/
+        act_name = $1
+      end
+      act_name
     end
 end

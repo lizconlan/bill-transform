@@ -231,7 +231,21 @@ describe "HtmlBill" do
       end
       
       it 'should create a <DIV> tag for each SubSection number' do
-        @clauses.should =~ /<div class="subsection_number">(1)<\/div>/
+        @clauses.should =~ /<div class="subsection_number">\(1\)<\/div>/
+      end
+      
+      it 'should create a <DIV> tag for each Amendment' do
+        @clauses.should =~ /<div class="amendment"/
+      end
+      
+      it 'should include the name of the Act that is being amended' do
+        @clauses.should =~ /<div class="amendment" data-act="Communications Act 2003"/
+        @clauses.should =~ /<div class="amendment" data-act="Broadcasting Act 1990">/
+        @clauses.should =~ /<div class="amendment" data-act="Broadcasting Act 1996">/
+        @clauses.should =~ /<div class="amendment" data-act="Wireless Telegraphy Act 2006">/
+        @clauses.should =~ /<div class="amendment" data-act="Video Recordings Act 1984">/
+        @clauses.should =~ /<div class="amendment" data-act="Public Lending Right Act 1979">/
+        @clauses.should =~ /<div class="amendment" data-act="Copyright, Designs and Patents Act 1988">/
       end
     end
   end
