@@ -119,13 +119,17 @@ class HtmlBill
       output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
     end
     
-    def handle_clause_content xml
+    def handle_clause_content xml, clause_number=nil
       output = []
       if xml.children
         xml.children.each do |element|
           case element.name
             when "ClauseTitle"
-              output << %Q|<h2><span class="clause_number">#{@clause}</span> #{strip_linebreaks(element.inner_text).strip}</h2>|
+              if clause_number
+                output << %Q|<h2><span class="clause_number">#{clause_number}</span> #{strip_linebreaks(element.inner_text).strip}</h2>|
+              else
+                output << %Q|<h2><span class="clause_number">#{@clause}</span> #{strip_linebreaks(element.inner_text).strip}</h2>|
+              end
             when "ClauseText"
               content = handle_clause_content(element)
               output << %Q|<div class="clause_text">#{content}</div>|
@@ -207,6 +211,13 @@ class HtmlBill
       if xml.children
         xml.children.each do |element|
           case element.name
+            when "CrossHeading"
+              output << %Q|<div class="crossheading">#{handle_amendment(element)}</div>|
+            when "CrossHeadingTitle"
+              output << %Q|<h2>#{strip_linebreaks(element.inner_text).strip}</h2>|
+            when "Clause"
+              clause = (element/'Number').first.inner_text
+              output << %Q|<div class="amendment_clause">#{handle_clause_content(element, clause)}</div>|
             when "SubSection"
               content = handle_subsection(element, element.attributes["Quote"])
               output << %Q|<div class="act_subsection">#{content}</div>|
