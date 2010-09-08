@@ -142,6 +142,8 @@ class HtmlBill
               output << %Q|<div class="subsection" id="clause-#{@clause}-subsection-#{@subsection}">#{content}</div>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
+            when "Xref"
+              output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
             when "LineStart"
               output << handle_linebreak(element, @page_number, false)
           end
@@ -172,8 +174,12 @@ class HtmlBill
                 @act_name = act_name
               end
               output << text
+            when "TextContinuation"
+              output << %Q|<div class="textcontinuation"></div>|
             when "Para"
               output << %Q|<div class="para">#{handle_clause_para(element)}</div>|
+            when "Xref"
+              output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
             when "LineStart"
               if output.last =~ /<\/div>/
                 output << handle_linebreak(element, @page_number, false)
@@ -196,6 +202,10 @@ class HtmlBill
           case element.name
             when "Number"
               output << %Q|<div class="para_number">(#{element.inner_text})</div>|
+            when "SubPara"
+              output << %Q|<div class="subpara">#{handle_clause_para(element)}</div>|
+            when "Xref"
+              output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
@@ -256,6 +266,8 @@ class HtmlBill
               else
                 output << handle_linebreak(element, @page_number)
               end
+            when "Xref"
+              output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
             when "DefinitionList"
               output << %Q|<div class="definition_list">#{handle_definition(element)}</div>|
             when "DefinitionListItem"

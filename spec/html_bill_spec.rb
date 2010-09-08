@@ -267,6 +267,10 @@ describe "HtmlBill" do
       it 'should create a <DIV> tag for each DefinitionListItem' do
         @clauses.should =~ /<div class="definition_list_item">/
       end
+      
+      it 'should create a <SPAN> tag for each Xref element' do
+        @clauses.should =~ /<span class="xref"/
+      end
     end
   end
 end
