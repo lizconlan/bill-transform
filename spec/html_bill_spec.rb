@@ -271,6 +271,10 @@ describe "HtmlBill" do
       it 'should create a <SPAN> tag for each Xref element' do
         @clauses.should =~ /<span class="xref"/
       end
+      
+      it 'should create a <SPAN> tag for each Jref element' do
+        @clauses.should =~ /<span class="jref"/
+      end
     end
   end
 end

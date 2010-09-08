@@ -144,6 +144,8 @@ class HtmlBill
               output << strip_linebreaks(element.inner_text)
             when "Xref"
               output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
+            when "Jref"
+              output << %Q|<span class="jref" id="#{element.attributes['Jref']}">#{element.inner_text}</span>|
             when "LineStart"
               output << handle_linebreak(element, @page_number, false)
           end
@@ -180,6 +182,10 @@ class HtmlBill
               output << %Q|<div class="para">#{handle_clause_para(element)}</div>|
             when "Xref"
               output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
+            when "Jref"
+              output << %Q|<span class="jref" id="#{element.attributes['Jref']}">#{element.inner_text}</span>|
+            when "Definition"
+              output << %Q|<div class="definition">#{handle_definition(element)}</div>|
             when "LineStart"
               if output.last =~ /<\/div>/
                 output << handle_linebreak(element, @page_number, false)
@@ -206,6 +212,8 @@ class HtmlBill
               output << %Q|<div class="subpara">#{handle_clause_para(element)}</div>|
             when "Xref"
               output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
+            when "Jref"
+              output << %Q|<span class="jref" id="#{element.attributes['Jref']}">#{element.inner_text}</span>|
             when "Text"
               output << strip_linebreaks(element.inner_text)
             when "LineStart"
@@ -268,6 +276,8 @@ class HtmlBill
               end
             when "Xref"
               output << %Q|<span class="xref" id="#{element.attributes['Idref']}">#{element.inner_text}</span>|
+            when "Jref"
+              output << %Q|<span class="jref" id="#{element.attributes['Jref']}">#{element.inner_text}</span>|
             when "DefinitionList"
               output << %Q|<div class="definition_list">#{handle_definition(element)}</div>|
             when "DefinitionListItem"
