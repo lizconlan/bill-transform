@@ -133,6 +133,9 @@ class HtmlBill
             when "ClauseText"
               content = handle_clause_content(element)
               output << %Q|<div class="clause_text">#{content}</div>|
+            when "Amendment"
+              content = handle_amendment(element)
+              output << %Q|<div class="amendment" data-act="#{@act_name}">#{content}</div>|
             when "PageStart"
               pagenum = element.attributes["Number"]
               @output << %Q|<div class="pageHead" data-number="#{pagenum}"></div>|
