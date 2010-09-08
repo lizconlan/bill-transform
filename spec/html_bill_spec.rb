@@ -255,6 +255,18 @@ describe "HtmlBill" do
       it 'should create a <DIV> tag for each Para element' do
         @clauses.should =~ /<div class="para">/
       end
+      
+      it 'should create a <DIV> tag for each Definition element' do
+        @clauses.should =~ /<div class="definition">/
+      end
+      
+      it 'should create a <DIV> tag for each DefinitionList element' do
+        @clauses.should =~ /<div class="definition_list">/
+      end
+      
+      it 'should create a <DIV> tag for each DefinitionListItem' do
+        @clauses.should =~ /<div class="definition_list_item">/
+      end
     end
   end
 end

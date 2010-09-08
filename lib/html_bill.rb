@@ -217,8 +217,38 @@ class HtmlBill
                 @act_name = act_name
               end
               output << text
+            when "Definition"
+              output << %Q|<div class="definition">#{handle_definition(element)}</div>|
             when "LineStart"
-              output << handle_linebreak(element, @page_number)
+              if output.last =~ /<\/div>/
+                output << handle_linebreak(element, @page_number, false)
+              else
+                output << handle_linebreak(element, @page_number)
+              end
+          end
+        end
+      end
+      output.join(" ").squeeze(" ").gsub(" <br /> ", "<br />")
+    end
+    
+    def handle_definition xml
+      output = []
+      if xml.children
+        xml.children.each do |element|
+          case element.name
+            when "Text"
+              text = strip_linebreaks(element.inner_text)
+              output << text
+            when "LineStart"
+              if output.last =~ /<\/div>/
+                output << handle_linebreak(element, @page_number, false)
+              else
+                output << handle_linebreak(element, @page_number)
+              end
+            when "DefinitionList"
+              output << %Q|<div class="definition_list">#{handle_definition(element)}</div>|
+            when "DefinitionListItem"
+              output << %Q|<div class="definition_list_item">#{handle_definition(element)}</div>|
           end
         end
       end
